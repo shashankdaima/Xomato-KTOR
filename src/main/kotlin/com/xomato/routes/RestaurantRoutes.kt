@@ -1,6 +1,6 @@
 package com.xomato.routes
 
-import com.xomato.dao
+import com.xomato.restaurantDao
 import com.xomato.data.models.Restaurant
 import io.ktor.http.*
 import io.ktor.server.application.*
@@ -11,11 +11,11 @@ import io.ktor.server.routing.*
 fun Route.restaurantRouting() {
     route("/restaurants") {
         get {
-            val response = dao.allRestuarants()
+            val response = restaurantDao.allRestuarants()
             if (response.isNotEmpty()) {
                 call.respond(response)
             } else {
-                call.respondText("No customers found", status = HttpStatusCode.OK)
+                call.respondText("No restaurants found", status = HttpStatusCode.OK)
             }
         }
         get("{id?}") {
@@ -24,7 +24,7 @@ fun Route.restaurantRouting() {
                     "Missing id", status = HttpStatusCode.BadRequest
                 )
             )
-            val restuarant = dao.getRestuarant(id) ?: return@get call.respondText(
+            val restuarant = restaurantDao.getRestuarant(id) ?: return@get call.respondText(
                 "No restuarant found",
                 status = HttpStatusCode.NotFound
             )
@@ -32,7 +32,7 @@ fun Route.restaurantRouting() {
         }
         post {
             val restaurant = call.receive<Restaurant>()
-            if (dao.addNewRestuarant(restaurant)) {
+            if (restaurantDao.addNewRestuarant(restaurant)) {
                 call.respondText("Restaurant added correctly", status = HttpStatusCode.Accepted)
             } else {
                 call.respondText("Restuarant Not Found", status = HttpStatusCode.NotFound)
@@ -44,7 +44,7 @@ fun Route.restaurantRouting() {
                     "Missing id", status = HttpStatusCode.BadRequest
                 )
             )
-            if (dao.deleteRestuarant(id)) {
+            if (restaurantDao.deleteRestuarant(id)) {
                 call.respondText("Restaurant removed correctly", status = HttpStatusCode.Accepted)
             } else {
                 call.respondText("Not Found", status = HttpStatusCode.NotFound)
@@ -57,7 +57,7 @@ fun Route.restaurantRouting() {
                     "Missing id", status = HttpStatusCode.BadRequest
                 )
             )
-            if (dao.editRestuarant(id, restaurant)) {
+            if (restaurantDao.editRestuarant(id, restaurant)) {
                 call.respondText("Restaurant update correctly", status = HttpStatusCode.Accepted)
             } else {
                 call.respondText("Restuarant Not Found", status = HttpStatusCode.NotFound)

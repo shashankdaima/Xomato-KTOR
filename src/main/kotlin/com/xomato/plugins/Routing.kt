@@ -1,5 +1,6 @@
 package com.xomato.plugins
 
+import com.xomato.routes.foodItemRouting
 import com.xomato.routes.restaurantRouting
 import io.ktor.server.routing.*
 import io.ktor.http.*
@@ -19,6 +20,7 @@ fun Application.configureRouting() {
     }
     routing {
         restaurantRouting()
+        foodItemRouting()
 
     }
 }
