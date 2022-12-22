@@ -15,10 +15,10 @@ data class FoodItem(
 
 object FoodItems : Table() {
     val id = integer("id").autoIncrement()
-    val dishName = varchar("dishName", 128)
-    val restaurantId = reference("restaurantId", Restaurants.id)
-    val course = varchar("course", 128)
-    val diet = varchar("diet", 128)
+    val dishName = varchar("dishName", 2000)
+    val restaurantId = integer("restaurantId")
+    val course = varchar("course", 2000)
+    val diet = varchar("diet", 2000)
     val price = integer("price")
     override val primaryKey = PrimaryKey(Restaurants.id)
 }

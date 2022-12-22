@@ -76,35 +76,36 @@ val restaurantDao: RestaurantDao
 val foodItemDao: FoodItemDao
     get() = FoodItemDaoImpl().also { dao ->
         runBlocking {
-            val fileName = "src/main/kotlin/com/xomato/Shashankfinalitemsdatafile.csv"
-            val fr = FileReader(fileName, StandardCharsets.UTF_8)
-            var foodItem: FoodItem
-            fr.use {
-                val reader = CSVReader(fr)
-                var flag = false;
-                reader.use { r ->
-                    var line = r.readNext()
-                    while (line != null) {
-                        if (!flag) {
-                            flag = true;
-                        } else {
-//                                id,dishName,restaurantID,course,diet,price
-                            foodItem = FoodItem(
-                                id = (line[0]).toInt(),
-                                dishName = line[1],
-                                restaurantId = (line[2]).toInt(),
-                                course = line[3],
-                                diet = line[4],
-                                price = line[5].toInt()
-                            )
-                            dao.addNewFoodItem(foodItem)
-                        }
-                        line = r.readNext()
-
-                    }
-
-                }
-            }
+//            FoodItemDao
+//            val fileName = "src/main/kotlin/com/xomato/Shashankfinalitemsdatafile.csv"
+//            val fr = FileReader(fileName, StandardCharsets.UTF_8)
+//            var foodItem: FoodItem
+//            fr.use {
+//                val reader = CSVReader(fr)
+//                var flag = false;
+//                reader.use { r ->
+//                    var line = r.readNext()
+//                    while (line != null) {
+//                        if (!flag) {
+//                            flag = true;
+//                        } else {
+////                                id,dishName,restaurantID,course,diet,price
+//                            foodItem = FoodItem(
+//                                id = (line[0]).toInt(),
+//                                dishName = line[1],
+//                                restaurantId = (line[2]).toInt(),
+//                                course = line[3],
+//                                diet = line[4],
+//                                price = line[5].toInt()
+//                            )
+//                            dao.addNewFoodItem(foodItem)
+//                        }
+//                        line = r.readNext()
+//
+//                    }
+//
+//                }
+//            }
         }
     }
 

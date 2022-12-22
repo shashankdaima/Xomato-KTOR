@@ -24,7 +24,7 @@ object Restaurants : Table() {
     val bookTable = bool("bookTable")
     val ratingOutOf5 = varchar("ratingOutOf5", 128)
     val votes = integer("votes")
-    val contactNumber = varchar("contactNumber", 32).nullable()
+    val contactNumber = varchar("contactNumber", 100).nullable()
     val locality = varchar("locality", 1024).nullable()
 
     override val primaryKey = PrimaryKey(id)
