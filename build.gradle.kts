@@ -43,4 +43,5 @@ dependencies {
     implementation("org.jetbrains.exposed:exposed-jdbc:$exposed_version")
     implementation("com.h2database:h2:$h2_version")
     implementation("com.google.code.gson:gson:2.8.6")
+    implementation("com.opencsv:opencsv:5.3")
 }

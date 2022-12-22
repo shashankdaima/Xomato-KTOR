@@ -10,7 +10,7 @@ data class Restaurant(
     val address: String,
     val orderOnline: Boolean,
     val bookTable: Boolean,
-    val ratingOutOf5: Float = Float.NaN,
+    val ratingOutOf5: String ,
     val votes: Int = 0,
     val contactNumber: String?,
     val locality: String? = null
@@ -22,7 +22,7 @@ object Restaurants : Table() {
     val address = varchar("address", 1024)
     val orderOnline = bool("orderOnline")
     val bookTable = bool("bookTable")
-    val ratingOutOf5 = float("ratingOutOf5")
+    val ratingOutOf5 = varchar("ratingOutOf5", 128)
     val votes = integer("votes")
     val contactNumber = varchar("contactNumber", 32).nullable()
     val locality = varchar("locality", 1024).nullable()

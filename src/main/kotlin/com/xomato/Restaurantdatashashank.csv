@@ -1,0 +1,1128 @@
+id,restaurantName,contactNumber,address,ratingOutOf5,restType,orderOnline,bookTable,locality,votes
+1,Swadesh Tadka,"080 42151252
++91 9886681252","101, Manjunatha Complex, Near BDA Complex, 22nd Main, 2nd Stage, Banashankari, Bangalore",3.5/5,Casual Dining,Yes,No,Banashankari,179
+2,Casa Piccosa,"080 39510999
+080 26538999","745/AB, 2nd Floor, Shravanee Square, 24th Main, 15th cross, 6th Phase, JP Nagar, Bangalore",4.1/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,842
+3,Bella,"+91 8971285555
+080 49709755","382/71/4, 11th Main, 3rd Block, Jayanagar, Bangalore",3.9/5,Casual Dining,Yes,Yes,Banashankari,142
+4,Anand Sweets and Savouries,"080 26488992
+080 40906629","Opposite Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",4.1/5,Sweet Shop,No,No,Bannerghatta Road,131
+5,SLV Refreshment,+91 9480243556,"130, 3rd main, 4th Cross, Hanumanthanagar, Banashankari, Bangalore",4.1/5,Quick Bites,No,No,Banashankari,94
+6,Punjabi Food Corner,"080 26850061
++91 9611826251","44/1, Opposite Brigade Millennium, Kothanur Dene Main Road, JP Nagar, Bangalore",3.0/5,Quick Bites,Yes,No,Bannerghatta Road,353
+7,Subway,"080 41400246
++91 7829932492","41/1, Bull Temple Road, Near BMSCE, Basavanagudi, Bangalore",3.7/5,Quick Bites,Yes,No,Basavanagudi,176
+8,Intalia,"080 49511151
+080 49511151","81/3/4, 5th Cross, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",3.6/5,Food Court,Yes,No,Bannerghatta Road,323
+9,Onesta,"080 48653961
+080 48655715","2469, 3rd Floor, 24th Cross, Opposite BDA Complex, 2nd Stage, Banashankari, Bangalore",4.6/5,"Casual Dining, Cafe",Yes,Yes,Banashankari,2556
+10,Nanna Munna Paratha House,"+91 8088120161
++91 9738720798","7th Main, NS Palya, 2nd Stage, BTM, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,107
+11,Baba Ka Dhaba,+91 9986286453,"NS Palya, 4th Phase, Near Shoppers Stop, BTM, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,194
+12,Chow San,"080 65655601
++91 9632247290","1, Opposite British Biological, Arekere, Bannerghatta Road, Bangalore",3.0/5,Casual Dining,Yes,No,Bannerghatta Road,122
+13,4th Tea Block,"+91 9844033353
++91 6361276770","524, 10th Main, 4th Block, Jayanagar, Bangalore",4.0/5,Cafe,No,No,Basavanagudi,62
+14,Ayodhya Upachar,"080 26694999
+00 09901269901","199/1, Ajanaya Bhavana, 100 Feet Ring Road, Kathriguppe, Banashankari, Bangalore",4.3/5,Quick Bites,Yes,No,Banashankari,734
+15,Subway,"080 42136088
+080 26719446","186, 16th Main, 24th Cross, 2nd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,Yes,No,Banashankari,136
+16,Chefeana,+91 8050752925,"3474, Maruti Dental College Road, Dodakamanhalli, Opposite Valmark Ananda Apartment, Bannerghatta Road, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,212
+17,Kabab Magic,080 26570381,"31, Opposite Vijaya College, RV Road, Basavanagudi, Bangalore",4.1/5,Quick Bites,Yes,No,Banashankari,1720
+18,Penthouse Cafe,"+91 8884135549
++91 9449449316","1, 30th Main Road, 3rd Stage, Banashankari, Bangalore",4.0/5,Cafe,Yes,No,Banashankari,324
+19,Szechuan Dragon,"00 919663567711
++91 9916326323","8, 2nd Floor, 1st Main, Arush Trapeze, Mount Joy Road, Behind BMS College of Engineering, Hanumanthnagar, Banashankari, Bangalore",4.2/5,Casual Dining,Yes,No,Banashankari,1647
+20,T3H Cafe,+91 8884726600,"504, CJ Venkata Das Road, Padmanabhangar, 2nd Stage, Banashankari, Bangalore",3.9/5,Cafe,No,No,Banashankari,93
+21,Bangaliana,080 26488095,"8, First Floor, Arekere Gate, Opposite Rose Garden Apartment, Bannerghatta Road, Bangalore",2.9/5,Quick Bites,Yes,No,Bannerghatta Road,153
+22,Rasoi,"+91 9738019114
+080 66816116","86, Shakthi Arcade, 21st Main, 2nd Stage, Near KIMS College and BDA Complex, Banashankari, Bangalore",3.3/5,Quick Bites,Yes,No,Banashankari,128
+23,Donne Biriyani House,"080 41614200
++91 9886944200","99/2A, Kothnoor Main Road, Opposite RBI Layout Bus Stop, 7th Phase, JP Nagar, Bangalore",3.3/5,Quick Bites,Yes,No,Bannerghatta Road,212
+24,Bake Addiction,+91 7406856980,"#1178,18th A Main Road, 3rd Cross, 2nd Phase, JP Nagar, Bangalore",4.0/5,Bakery,Yes,No,Bannerghatta Road,88
+25,Krishna Kuteera,+91 9035011234,"19/3C, Avanishringeri Nagar, Nyanappanahalli Village, Bannerghatta Road, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,398
+26,Willys Top Cafe,"+91 7795808555
+00 09176703991","23, 3rd Floor, 26th Main Road, Opposite Ragigudda Arch, 9th Block Jayanagar, Bangalore",4.0/5,Cafe,Yes,No,Bannerghatta Road,308
+27,Pizza Stop,"+91 9663504448
++91 9880160086","Agastya Suites, 116, 8th Main Road, Next to M.K.Ahmed Retail, 4th Phase, JP Nagar, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,386
+28,Intalia,"080 49511151
+080 49511151","81/3/4, 5th Cross, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",3.6/5,Food Court,Yes,No,Bannerghatta Road,323
+29,Spice Code,"+91 9513699007
++91 9513699006","47/1, 9th Main,1st Cross, Miniforest, Phase 3, JP Nagar, Bangalore",3.9/5,Casual Dining,No,Yes,Bannerghatta Road,165
+30,Cravy Wings,"080 26651666
++91 8095050528","1/52-10, Bharath Petroleum Premises, Opposite Subramanya Arcade, Bannerghatta Road, Bangalore",4.2/5,Quick Bites,Yes,No,Bannerghatta Road,289
+31,Cafe Aira,"+91 9980570955
+080 41121975","23, Kanakapura Road, Near SRS Petrol Pump, Lalbagh West Gate, Basavanagudi, Bangalore",4.1/5,Cafe,Yes,No,Basavanagudi,216
+32,TAB - Take A Break,"+91 9535133088
++91 9448157110","8, 15th Main, 5th Phase, JP Nagar, Bangalore",4.1/5,Cafe,No,No,Bannerghatta Road,521
+33,The Coffee Shack,+91 9731644212,"6th Block, 3rd Stage, Banashankari, Bangalore",4.2/5,Cafe,Yes,Yes,Banashankari,164
+34,BANGALORE BOX,"+91 9901402636
++91 8049577779","934, 1st Block, 4th Stage, DC Halli, BG Road, BTM, Bangalore",4.1/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,612
+35,Paratha Junction,"+91 8884182838
+080 41523399","520, Opposite Vijaya Bank, 1st Main, Arekere, MICO Layout, Bannerghatta Road, Bangalore",2.4/5,Quick Bites,Yes,No,Bannerghatta Road,158
+36,Goli Vada Pav No. 1,"+91 9845208282
++91 9538308282","92/1, Next to Vodafone Store, Gandhi Bazar Main Road, Basavanagudi, Bangalore",3.7/5,Quick Bites,Yes,No,Banashankari,93
+37,SLV Corner Restaurant,080 49653234,"42, Vani Vilas Road, Ramakrishna Ashrama Circle, Basavanagudi, Bangalore",4.1/5,Casual Dining,Yes,No,Banashankari,364
+38,Woody's,"080 26490999
+080 26490888","45/1-1, 100 Feet Road, 2nd Phase, JP Nagar, Bangalore",2.6/5,Casual Dining,Yes,No,Bannerghatta Road,208
+39,Woodee Pizza,+91 7406822844,"3353, 2nd Cross, Opposite Auden School, Hoskerehalli Cross, 3rd Stage, Banashankari, Bangalore",3.7/5,Cafe,Yes,No,Banashankari,180
+40,TAB - Take A Break,"+91 9535133088
++91 9448157110","8, 15th Main, 5th Phase, JP Nagar, Bangalore",4.1/5,Cafe,No,No,Bannerghatta Road,521
+41,Royal Chef Naati Oota,"080 26589000
++91 9980074663","312, 15th cross, 5th phase, JP Nagar, Bangalore",4.0/5,Casual Dining,No,No,Bannerghatta Road,193
+42,Cold Stone Creamery,080 67922488,"3, Third Floor, Vega City Mall, Bannerghatta Road, Bangalore",3.9/5,Dessert Parlor,Yes,No,Bannerghatta Road,99
+43,Hyderabadi Bawarchi,"+91 7829488222
++91 7829588222","633/B555, Panduranga Nagar, Near Arekere Gate, Bannerghatta Road, Bangalore",3.2/5,Casual Dining,Yes,No,Bannerghatta Road,133
+44,Cafe Vivacity,"080 26768182
++91 9845704455","2303, 21st Cross, K R Road, 2nd Stage, Banashankari, Bangalore",3.8/5,Cafe,Yes,No,Banashankari,90
+45,Grand Village,"+91 8026612447
++91 9901210005","10, 3rd Floor, Lakshmi Associates, Gandhi Bazaar Main Road, Above Reliance Trends, Basavanagudi, Bangalore",3.8/5,Casual Dining,No,No,Banashankari,166
+46,Ruh's Cafe,"+91 9986271611
++91 9844803695","294, 4th Floor, 7th Main, 7th Cross, Mico Employees Griha Nirmana Sangha Layout, 2nd Stage, BTM, Bangalore",4.1/5,Cafe,Yes,No,Bannerghatta Road,463
+47,Biggies Burger 'n' More,"+91 9972972950
++91 9663729632","173, DSI college Road, Kumaraswamy Layout, Bangalore",3.6/5,Quick Bites,Yes,No,Banashankari,58
+48,Bottle Breacher,+91 9482512009,"309, 15th Cross, 100 Feet road, 5th Phase, JP Nagar, Bangalore",4.1/5,"Casual Dining, Pub",No,Yes,Bannerghatta Road,1187
+49,Cafe Vivacity,"080 26768182
++91 9845704455","2303, 21st Cross, K R Road, 2nd Stage, Banashankari, Bangalore",3.8/5,Cafe,Yes,No,Banashankari,90
+50,Bawarchi Inn,"+91 8197022223
++91 9032216666","1, 1st Floor, BTM Complex, 9th Main Road, 1st Stage, BTM, Bangalore",3.1/5,Casual Dining,Yes,No,Bannerghatta Road,140
+51,My Tea House,"080 65975430
++91 7337733798","224/Y, 4th Phase, 7th Block, 100 Feet Ring Road, Near Kamakya Theatre, Banashankari, Bangalore",3.6/5,"Quick Bites, Cafe",Yes,No,Banashankari,62
+52,Pallavi North Indian Veg Restaurant,"080 42085558
++91 9066707459","26, 16th Cross, 5th Phase, 100ft Ring Road, Opposie Canara Bank, JP Nagar, Bangalore",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,243
+53,Tongue Twisters,+91 9902629650,"10, Near Post Office, 16th Main Rd, Mahadeshwara Nagar, 2nd Stage, BTM, Bangalore",3.5/5,Quick Bites,Yes,No,Bannerghatta Road,283
+54,Ma-Arya Family Restaurant,"080 26601211
++91 9620007561","186, Datta Complex, 1st Floor, Next To Flower Market Gandhi Bazar, Basavanagudi, Bangalore",3.7/5,Casual Dining,No,No,Banashankari,61
+55,Coconut Grove,"080 48146882
++91 9945058354","296, 100 Feet Ring Road, 5th Phase, JP Nagar, Bangalore",3.4/5,"Casual Dining, Bar",No,No,Bannerghatta Road,97
+56,World on a Swirl,+91 9986075232,"Mahadheshwara Swami Nilaya, 1/2, 1st Floor, DLF Circle Main Road, Near Akshaynagar, Yelenahalli, Bannerghatta Road, Bangalore",3.8/5,"Dessert Parlor, Quick Bites",No,No,Bannerghatta Road,46
+57,Steaming Mugs,"+91 9341234538
++91 9886414790","166/A 2nd Floor, R.V Road, Above DTDC Office, V.V Puram, Near Minerva Circle, Basavanagudi, Bangalore",3.9/5,Cafe,Yes,No,Banashankari,240
+58,Andhra Grills,"+91 9844392143
++91 9739188800","114/512, Kothanur Main Road, 7th Phase, JP Nagar, Bangalore",3.0/5,Casual Dining,No,No,Bannerghatta Road,55
+59,Redberrys,+91 9148421256,"30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",4.0/5,Cafe,Yes,No,Banashankari,219
+60,More Pizza,"+91 9611111141
+080 42229996","Ground Floor, 21, Krishnama Raju Layout, Near Oracle Dorasani Palya, JP Nagar, Bangalore",3.8/5,Quick Bites,Yes,No,Bannerghatta Road,46
+61,Sea Spice by 7 Star,080 49653393,"1890, Shetty Gardenia, 9th Main, Kaverinagar, 2nd Stage, Banashankari, Bangalore",4.0/5,Casual Dining,Yes,Yes,Banashankari,349
+62,Beijing Bites,"080 42068388
+080 42068488","186, 16th Main, 24th Cross, 2nd Stage, Banashankari, Bangalore",2.7/5,Casual Dining,No,No,Banashankari,128
+63,Kidambi's Kitchen,"080 42112211
++91 9880412211","2465, 3rd Floor, Opposite BDA Complex, 24th Cross, Banashankari, Bangalore",3.5/5,Quick Bites,No,No,Banashankari,52
+64,Cafe Shuffle,+91 9742166777,"941, 3rd FLOOR, 21st Main, 22nd Cross, Banashankari 2nd stage, Opposite to BDA complex, Banashankari",4.2/5,Cafe,Yes,Yes,Banashankari,150
+65,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,"080 26724489
++91 7406048982","12,29 Near PES University Back Gate, D'Souza Nagar, Hosakerehalli, 3rd Stage, Banashankari, Bangalore",4.1/5,Cafe,Yes,No,Banashankari,402
+66,Guru Garden,"080 26583972
+080 41503389","197, Next to Reliance Mart, Opposite Accenture, Hulimaavu, Bannerghatta Road, Bangalore",2.9/5,Casual Dining,No,No,Bannerghatta Road,106
+67,SLV Corner Restaurant,080 49653234,"42, Vani Vilas Road, Ramakrishna Ashrama Circle, Basavanagudi, Bangalore",4.1/5,Casual Dining,Yes,No,Banashankari,364
+68,On The Nose,"080 42008978
++91 9886625960","268, 6th Main, 2nd Stage, BTM, Bangalore",3.8/5,Cafe,Yes,No,Bannerghatta Road,613
+69,Guru Garden,"080 26583972
+080 41503389","197, Next to Reliance Mart, Opposite Accenture, Hulimaavu, Bannerghatta Road, Bangalore",2.9/5,Casual Dining,No,No,Bannerghatta Road,106
+70,Danapani,080 42350950,"1-8, RBI Layout, 7th Phase, JP Nagar, Bangalore",3.8/5,Casual Dining,No,No,Bannerghatta Road,59
+71,Bathinda Junction,+91 9740701619,"36, 29th Main Road, Mahadeshwara Nagar, Stage 2, BTM, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,362
+72,Twiststick House,+91 9916538249,"97, Opposite Jain College, Kavi Lakshmisha Road, VV Puram, Basavanagudi, Bangalore",4.1/5,Quick Bites,Yes,No,Banashankari,163
+73,Hunger Bee,"+91 7337613999
++91 7338032999","3rd Floor, 5, 3 Road Cross, DLF Main Road, Bannerghatta Road, Bangalore",3.8/5,Quick Bites,Yes,No,Bannerghatta Road,54
+74,Deja Vu Resto Bar,+91 9632499855,"5th Floor, Gopalan Innovation Mall, Bannerghatta Road, Bangalore",4.4/5,Pub,Yes,Yes,Bannerghatta Road,2487
+75,Hyderabad Biryaani House,"+91 9845699901
++91 9986438789","Arakere Gate, Next to HSBC, Opposite Reliance Mart, Bannerghatta Road, Bangalore",3.6/5,Casual Dining,Yes,No,Bannerghatta Road,796
+76,Spice Up,"080 26582546
+080 32931154","228/A, 9th Main, K.S.R.T.C Layout, 2nd Phase, JP Nagar, Bangalore",3.8/5,Casual Dining,Yes,No,Bannerghatta Road,146
+77,Aramane Restaurant,+91 8043027998,"154/9, Bannerghatta Main Rd",2.9/5,Casual Dining,Yes,Yes,Bannerghatta Road,90
+78,Chicken Man,+91 8042005011,"296, Ground Floor, 5th Phase, 100 Feet Outer Ring Road, JP Nagar, Bangalore",3.8/5,Quick Bites,Yes,Yes,Bannerghatta Road,72
+79,The Airos,+91 7026390001,"22, 2nd Main Road, National College Road, 7th Block, Jayanagar, Bangalore",4.1/5,Cafe,Yes,No,Banashankari,130
+80,Gama Gama,"+91 9739946098
++91 9538433344","17, Ground Floor, Near Big Bazar, 100 Feet Ring Road, 3rd Stage, Banashankari, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,264
+81,Fat Chef Biryani Wale,"+91 9986712348
++91 9980902935","Bannerghatta Road, Bangalore",3.3/5,"Takeaway, Delivery",Yes,No,Bannerghatta Road,28
+82,Kollapuri's,080 41205839,"1, Corporation Market, Gandhi Bazar, Basavanagudi, Bangalore",3.9/5,Quick Bites,No,No,Banashankari,206
+83,RS Shiv Sagar,"080 26604686
+080 26600115","5, Mallariah Complex, Near Corporation Bank, Gandhi Nagar, Basavanagudi, Bangalore",3.7/5,Casual Dining,No,No,Banashankari,217
+84,BANGALORE BOX,"+91 9901402636
++91 8049577779","934, 1st Block, 4th Stage, DC Halli, BG Road, BTM, Bangalore",4.2/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,611
+85,McDonald's,080 66000666,"63, Ground Floor, Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,256
+86,Status,080 26490166,"70/71, Seetharam Complex, Bilekahalli, Bannerghatta Main Road, Bannerghatta Road, Bangalore",3.2/5,Casual Dining,Yes,No,Bannerghatta Road,66
+87,Chung Wah Opus,"080 65788688
+080 65788588","55, 4th Floor, 15th Cross, 19th Main, 2nd Phase, JP Nagar, Bangalore",3.0/5,Casual Dining,Yes,No,Bannerghatta Road,57
+88,Pizza Hut,080 39883988,"311, 15th Cross, 5th Phase, JP Nagar, Bangalore",2.7/5,Quick Bites,Yes,No,Bannerghatta Road,159
+89,Desi Wok,"+91 9620133223
++91 9620033223","251/1009, Near Vijaya Bank Layout, Bilekahalli, 4th Stage, BTM, Bangalore",2.7/5,Quick Bites,No,No,Bannerghatta Road,76
+90,Woodee Pizza,+91 7406827272,"305, Anand NR Onyx, 15th Cross, 100 Feet Ring Road, 5th Phase Extension, JP Nagar, Bangalore",2.7/5,Cafe,Yes,No,Bannerghatta Road,85
+91,Barbeque Nation,+91 8064806060,"67, 15th Cross, 6th B Main, JP Nagar, Bangalore",4.7/5,Casual Dining,No,Yes,Bannerghatta Road,3844
+92,La Grande Cafe,+91 9845525205,"321, 36th A Cross, 7th Main, 5th Block, Jayanagar, Bangalore",3.8/5,Cafe,No,No,Basavanagudi,46
+93,Tandoori Knight,"+91 9035297404
++91 9731504721","34, 22nd Main, 22nd Cross, Opposite BDA, 2nd Stage, Banashankari, Bangalore",3.0/5,Quick Bites,Yes,No,Banashankari,290
+94,Bangalir Rannaghar,+91 7337618151,"DLF City Road, Near Sai Baba Temple, Arekere, Bannerghatta Road, Bangalore",2.9/5,Quick Bites,No,No,Bannerghatta Road,58
+95,The Foodyz,"+91 9380002058
++91 8043759660","Beside Axis Bank ATM, 2nd Cross Road, Puttenahalli Rd, 6th Phase, JP Nagar, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,42
+96,Roving Feast,"080 42024092
+080 42274242","78, 21st Main Road, Near BDA Complex, 2nd Stage, Banashankari, Bangalore",4.0/5,Quick Bites,No,No,Banashankari,1047
+97,Kesariya,080 49653516,"55, Goenka Chambers, Jeevan Griha Colony, 19th Main, Phase 2, JP Nagar, Bangalore",4.2/5,Casual Dining,No,Yes,Bannerghatta Road,1212
+98,Chatar Patar,+91 7619353103,"24/1, 23rd Cross, 6th Main Road, Opposite Kaveri Grameena Bank, 2nd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,No,No,Banashankari,65
+99,Kirthi's Biryani,"080 26711554
++91 9741406338","405, 24th Cross, 9th Main, 2nd Stage, Banashankari, Bangalore",3.8/5,Cafe,Yes,No,Banashankari,144
+100,The Caramelts Cafe,080 26544799,"Opposite Vijaya Junior College, 14th Main, 30th Cross, Jayanagar, Bangalore",4.2/5,Cafe,No,No,Basavanagudi,223
+101,Night Panda,"+91 9066783118
+080 41123861","487, Ground Floor, 16th Cross, 4th Phase, JP Nagar, Bangalore",2.9/5,"Takeaway, Delivery",No,No,Bannerghatta Road,39
+102,Rajathadri Food Fort,"080 26539798
++91 7619201123","19/49, Near National College, 2nd Main, 31st Cross, 7th Block, Jayanagar, Bangalore",4.0/5,Casual Dining,Yes,No,Banashankari,465
+103,Pizza Hut,"080 39883988
+080 26799999","14, 100 Feet Ring Road, 6th Block, 3rd Stage, Banashankari, Bangalore",3.7/5,Casual Dining,Yes,No,Banashankari,405
+104,Mast Kalandar,"080 42192828
+080 42192829","19, Jalaram Industrial Estate, Opposite Food World, Arakere Gate, Bannerghatta Road, Bangalore",2.4/5,Delivery,No,No,Bannerghatta Road,183
+105,Roti Ghar,"080 26629734
++91 9880141967","17, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,750
+106,Vinaya Coffee Moments,"+91 9538699211
+080 49566825","Someshwara Bhavan, RBI Layout, 7th Phase, Kothnur Main Road, JP Nagar, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,46
+107,Sukh Sagar,080 26634132,"30th Cross, 8th Main, Near Jain Temple, 4th Block, Jayanagar, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,155
+108,Cafe Mondo,080 42088686,"2/2, Pattalamma Gudi Street, Armugam Circle, Near South End Circle, Basavanagudi, Bangalore",3.7/5,Cafe,Yes,No,Banashankari,514
+109,Kulfi & More,"+91 8095022232
++91 9900091470","427, Ground Floor, 7th Main, 7th Cross, BTM Layout, Bangalore",3.7/5,Dessert Parlor,Yes,No,Bannerghatta Road,46
+110,The Pizzeria,"+91 9845154172
++91 9620344606","1112, 30th Main,Teachers Layout, Next to SBI Bank, 3rd Stage, Banashankari, Bangalore",2.8/5,Casual Dining,Yes,No,Banashankari,45
+111,Birinz,"+91 8197022223
++91 9141111222","1st Floor, BTM Complex, 9th Main Road, 1st Stage, BTM, Bangalore",4.1/5,Casual Dining,Yes,No,Bannerghatta Road,292
+112,Smacznego,"+91 9945230807
++91 9743804471","2470, 21 Main Road, 25th Cross, Banashankari, Bangalore",4.2/5,Cafe,Yes,No,Banashankari,504
+113,Tasty Bytes,"+91 8553317408
++91 7899687127","1607, Sagar Hospital Road, Near Dayanandasagar College, Kumaraswamy Layout, Bangalore",3.1/5,Quick Bites,Yes,No,Banashankari,245
+114,Udupi Grand,"+91 9242115999
++91 9591322733","49, South End Road, Nagasandra Circle, Basavanagudi, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,74
+115,Desi Cream Junction,"+91 9342943356
++91 9880988500","7th Main Road, 4th Block, Jayanagar East, Bangalore",3.7/5,Casual Dining,Yes,Yes,Banashankari,36
+116,Taco Bell,"+91 8448797303
++91 8971535487","Royal Meenakshi Mall, Third Floor, Hulimavu, Bannerghatta Road, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,168
+117,New Prashanth Hotel,"080 49569558
++91 8197819686","43/2, 100 Feet Road, Kamakya Complex, 3rd Stage, Banashankari, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,388
+118,Athithi,"080 41507671
+080 41507674","225-226, Above Canara Bank, Arakere Gate, Bannerghatta Road, Bangalore",2.8/5,Casual Dining,No,No,Bannerghatta Road,80
+119,Utsav,+91 9632695401,"46, 80 Feet Road, 3rd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,Yes,No,Banashankari,59
+120,Redberrys,+91 9148421256,"30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",4.0/5,Cafe,Yes,No,Basavanagudi,219
+121,Sri Lakshmi Dhaba,"+91 8970548240
++91 9739369901","23, 7th Cross, 2nd Main, NS Palya Main Road, 2nd Stage, BTM, Bangalore",2.9/5,Quick Bites,Yes,No,Bannerghatta Road,255
+122,Pizza Mane,+91 9886212159,"9/63, 1st C Main Road, Kathreguppe, Vivekananda Nagar, Banashankri, Bangalore",3.5/5,Quick Bites,Yes,No,Banashankari,32
+123,Chung Wah Opus,"080 65788688
+080 65788588","55, 4th Floor, 15th Cross, 19th Main, 2nd Phase, JP Nagar, Bangalore",3.0/5,Casual Dining,Yes,No,Bannerghatta Road,57
+124,Domino's Pizza,"080 26486401
+18602100000","Ground Floor, Gowry's, Next To Vijaya Bank, Arakere Gate, Bannerghatta Road, Bangalore",3.0/5,Quick Bites,Yes,No,Bannerghatta Road,347
+125,TAB - Take A Break,"+91 9535133088
++91 9448157110","8, 15th Main, 5th Phase, JP Nagar, Bangalore",4.1/5,Cafe,No,No,Bannerghatta Road,521
+126,The Coffee Shack,+91 9731644212,"6th Block, 3rd Stage, Banashankari, Bangalore",4.2/5,Cafe,Yes,Yes,Banashankari,164
+127,Kataria's Pakwan,+91 9845089103,"31, 2nd Cross, 1st Stage, Padmanabh Nagar, Kumaraswamy Layout, Bangalore",3.2/5,Quick Bites,Yes,No,Banashankari,96
+128,Pizza Hut,"080 39883988
+080 26710999","2469, 21st Cross, Near BDA Complex, 2nd Stage, Banashankari, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,693
+129,The Vintage Cafe,"+91 9880016665
++91 8217311687","146, 50 ft Road, 3rd Phase, 3rd Stage, Near Katriguppe Water Tank Circle, Banashankari, Bangalore",3.0/5,Cafe,Yes,No,Banashankari,62
+130,Spice Code,"+91 9513699007
++91 9513699006","47/1, 9th Main,1st Cross, Miniforest, Phase 3, JP Nagar, Bangalore",4.0/5,Casual Dining,No,Yes,Bannerghatta Road,165
+131,Andhra Grills,"+91 9844392143
++91 9739188800","114/512, Kothanur Main Road, 7th Phase, JP Nagar, Bangalore",3.0/5,Casual Dining,No,No,Bannerghatta Road,55
+132,Matru Sagar,+91 9972368854,"Shubashree Complex, 50 Feet Road, 1st Stage, Hanumanthanagar, Near Girinagar, Banashankari, Bangalore",3.6/5,Quick Bites,Yes,No,Banashankari,84
+133,Kakal-Kai Ruchi,+91 9448395832,"1/8, Big Baazar, Kothanur Dinne Main Road, 7th Phase, RBI Layout, JP Nagar, Bangalore",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,217
+134,Coastal Inn,"080 42117811
++91 9740218147","204, Panduranga Nagar, Opposite HSBC, Bannerghatta Road, Bangalore",3.4/5,Casual Dining,No,No,Bannerghatta Road,66
+135,Jalsa,"080 42297555
++91 9743772233","942, 21st Main Road, 2nd Stage, Banashankari, Bangalore",4.1/5,Casual Dining,Yes,Yes,Banashankari,775
+136,South Kitchen,+91 9880980009,"1st Main Road, Near Katte Balaga, NR Colony, Basavanagudi, Bangalore",4.3/5,Quick Bites,Yes,No,Banashankari,275
+137,Kalingas,080 42038180,"399, 16th Main, N.S Palya, BTM, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,173
+138,Malhar Maharashtrian Cuisine,+91 9880082094,"16, Survey Number 13, Omkar Nagar, Arekere, Bannerghatta Road, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,101
+139,Le Arabia,+91 8041410082,"15, Bannerghatta Main Road, JP Nagar, Bangalore",NEW,Casual Dining,Yes,No,Bannerghatta Road,0
+140,Punjabi Nawabi,"+91 9916713131
++91 9916813131","Shop 9, 1st Floor, SBI Building, New DLF New Town, Opposite Ample Mart, Bannerghatta Road, Bangalore",3.8/5,Quick Bites,Yes,No,Bannerghatta Road,310
+141,Anna Kuteera,+91 9620009302,"21, 80 Feet Road, 3rd Phase, 4th Block, 3rd Stage, Banashankari, Bangalore",4.0/5,Casual Dining,Yes,No,Banashankari,771
+142,Cafe Shuffle,+91 9742166777,"941, 3rd FLOOR, 21st Main, 22nd Cross, Banashankari 2nd stage, Opposite to BDA complex, Banashankari",4.2/5,Cafe,Yes,Yes,Banashankari,150
+143,Amma's Pastries,+91 9590607750,"7, Near RTO, Opposite Nano Hospital, 80 Feet Road, Bannerghatta Road, Bangalore",4.0/5,Bakery,No,No,Bannerghatta Road,102
+144,Dal Tadkaa,"080 26691763
++91 9620138000","1, Kathriguppe Main Road, 3rd Stage, Banashankari, Bangalore",2.5/5,Casual Dining,Yes,No,Banashankari,247
+145,24th Main,"+91 9900092563
++91 8722148555","Cross Roads Inn, 827, Near RV Dental College Compound, 24th Main, 12th Cross, JP Nagar, Bangalore",4.1/5,Casual Dining,No,Yes,Bannerghatta Road,1235
+146,The Yellow Chilli,080 41712345,"No ? 51 , 11th Main Road, Jayanagar 4 th Block, Bangalore",3.8/5,Casual Dining,Yes,Yes,Basavanagudi,584
+147,Gustoes Beer House,080 49653521,"10, 30th Main, Deve Gowda Petrol Bunk Road, 3rd Stage, Banashankari, Bangalore",4.1/5,Pub,No,No,Banashankari,868
+148,Kabab Magic,080 26490895,"1548, East End Circle, 9th Block, Jayanagar, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,952
+149,Cafe Arabica,"080 64442444
++91 8050042444","4, 1st Cross, Christ School Road, Bhavani Layout, Bannerghatta Road, Bangalore",3.8/5,"Cafe, Bakery",No,No,Bannerghatta Road,69
+150,FreshMenu,080 40424242,"10, Stavyah Arcade, 3rd Floor 9th Main, Yarab Nagar Main Road, Banashankari, Bangalore",3.9/5,Delivery,Yes,No,Banashankari,627
+151,Salut,"+91 8971285555
+080 49709755","382/71/4, 11th Main, 3rd Block, Jayanagar, Bangalore",4.1/5,"Pub, Casual Dining",Yes,Yes,Banashankari,442
+152,Smoke - The Sizzler House,+91 9620991924,"Unit 19, 3rd Floor, 172/1, Vega City Mall, Bannerghatta Road, Bangalore",3.8/5,Food Court,Yes,No,Bannerghatta Road,92
+153,A2B Veg - Adyar Ananda Bhavan,"080 26621222
+080 41203999","200, Next to Canara Bank, KG Road, Gandhi Bazaar, Basavanagudi, Bangalore",2.7/5,Casual Dining,Yes,No,Banashankari,97
+154,Redberrys,+91 9148421256,"30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",4.0/5,Cafe,Yes,No,Banashankari,219
+155,Shanghai Court,080 42086199,"1035, 5th Cross, 13th Main, Vijaya Bank Layout, Bannerghatta Road, Bangalore",4.2/5,Casual Dining,Yes,No,Bannerghatta Road,421
+156,Butterly,+91 7338636363,"7, Doddakammanahalli Main Road, Central Excise Layout, Phase 2, Bannerghatta Road, Bangalore",3.9/5,Cafe,Yes,No,Bannerghatta Road,102
+157,Fusion Theory,080 49653171,"34/1, 3rd & 4th Floor, 36th Cross, 6th Main, 4th Block, Jayanagar, Bengaluru",NEW,Casual Dining,No,Yes,Basavanagudi,0
+158,Waah Biryani,+91 9008812888,"41, Near Royal School, 24th Main, JP Nagar, Bangalore",3.8/5,Quick Bites,No,No,Bannerghatta Road,115
+159,Chung Wah,"080 41215557
+080 41215333","3, Arakere Gate, Bannerghatta Road, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,532
+160,Kabab Magic,080 26570381,"31, Opposite Vijaya College, RV Road, Basavanagudi, Bangalore",4.1/5,Quick Bites,Yes,No,Basavanagudi,1720
+161,Gustoes Beer House,080 49653521,"10, 30th Main, Deve Gowda Petrol Bunk Road, 3rd Stage, Banashankari, Bangalore",4.1/5,Pub,No,No,Banashankari,868
+162,San Churro Cafe,+91 9663487993,"1112, Next to KIMS Medical College, 17th Cross, 2nd Stage, Banashankari, Bangalore",3.8/5,"Cafe, Casual Dining",Yes,No,Basavanagudi,918
+163,Kamat Bugle Rock,080 26605734,"1, 5th Main Road, Bull Temple Road, Basavanagudi, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,543
+164,Mandi,"080 26581432
++91 9880493432","949, 2nd Floor, 24th Main, 2nd Phase, JP Nagar, Bangalore",3.8/5,Casual Dining,Yes,Yes,Bannerghatta Road,560
+165,Hatti Kaapi,080 40942666,"126, Opposite Police Station, 7th Main, 4th Block, Jayanagar, Bangalore",4.0/5,Quick Bites,Yes,No,Banashankari,89
+166,Shetty's Kitchen,+91 9900449437,"Sir M Visveswaraya Road, Kutappa Garden, Mulki Sundar Ram Shetty Nagar, Bilekahalli, Bannerghatta Road, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,108
+167,Cuppa,080 40939471,"46/A, 1st Main, 3rd Phase, JP Nagar, Bangalore",3.4/5,Cafe,No,No,Bannerghatta Road,48
+168,Roll Over,"+91 8884942976
++91 8884942900","1A/29 , Shop 2 , 27th Cross, Jayanagar, Bangalore",4.1/5,Dessert Parlor,Yes,No,Banashankari,438
+169,Juicy Momos,+91 9538550509,"32, 22nd Cross, 22nd Main, 2nd Stage, Near BDA Complex, Banashankari, Bangalore",3.5/5,Quick Bites,Yes,No,Banashankari,80
+170,Kitchens@JP Nagar,080 43334321,"#35/4, 24th main JP Nagar 7th phase, Puttenahalli, JP Nagar, Bangalore",3.9/5,"Takeaway, Delivery",Yes,No,Bannerghatta Road,488
+171,Cakebuy,+91 8496934114,"1 B, Krishnamurthy Complex, Kodichikkanahalli Road, Bannerghatta Road, Bangalore",3.9/5,Dessert Parlor,Yes,No,Bannerghatta Road,70
+172,Butterly,+91 7338636363,"7, Doddakammanahalli Main Road, Central Excise Layout, Phase 2, Bannerghatta Road, Bangalore",3.9/5,Cafe,Yes,No,Bannerghatta Road,102
+173,Laddoos,080 40991947,"799, 7th Cross Road, 2nd Stage, Near Fooddays, BTM, Bangalore",3.4/5,"Quick Bites, Dessert Parlor",Yes,No,Bannerghatta Road,276
+174,Adithya,080 49652760,"37, Diagonally Opposite Ranga Shankara, 2nd Phase, JP Nagar, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,332
+175,Chatori Gali,"+91 9980370364
++91 9036083599","669, Opposite Elita Apartment, RBI Layout, 7th Phase, JP Nagar, Bangalore",2.9/5,Casual Dining,No,No,Bannerghatta Road,51
+176,Zaitoon,"080 41477977
+080 41488988","21, 24th Main Road, 6th Phase, JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,Yes,Bannerghatta Road,1538
+177,BIB - Breakfast in the Box,+91 7005889963,"52, 1st Floor, 3rd Cross, Omkar Nagar Arkere Gate, Near Reliance Store, Bannerghatta Road, Bangalore",3.8/5,Delivery,Yes,No,Bannerghatta Road,84
+178,Brews N Bites,"+91 9886791151
++91 9886439454","54/7, Old no 54, 30th Cross B, Main Road, Corp Layout, Jayanagar, Bangalore",2.9/5,"Quick Bites, Cafe",Yes,No,Basavanagudi,62
+179,Fattoush,"080 41425553
++91 7337830044","128/54/10, First floor, Opposite IIM - B, Dasarapalya, Bannerghatta Road, Bangalore",4.2/5,Casual Dining,Yes,Yes,Bannerghatta Road,1964
+180,Guru Greens,"+91 9845055553
++91 9845955556","97/2, Gottigere, Bannerghatta Road, Bangalore",3.8/5,Casual Dining,No,No,Bannerghatta Road,89
+181,Amritsari Kulcha Land,"+91 8884449474
++91 7986965273","123, 24th Main, Opposite Royal High School, 5th Phase, JP Nagar, Bangalore",4.1/5,Quick Bites,Yes,No,Bannerghatta Road,260
+182,Bunt's Biriyani Palace,"080 26697231
++91 8711090256","487, 80 Feet Road, Bank Colony, 1st Stage, Banashankari, Bangalore",3.0/5,Quick Bites,Yes,No,Banashankari,213
+183,Chicken Hunt,"+91 8762427116
++91 9591490143","222, 100 Feet Road, Near Kathriguppe Signal, Opposite Udbav Hospital, 6th Block, 3rd Stage, Banashankari, Bangalore",3.5/5,Quick Bites,Yes,No,Banashankari,88
+184,Srikrishna Bhavan,"+91 9590895055
++91 9845664745","Next To BMTC Bus Stand, Banashankari, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,42
+185,California Burrito,080 39515101,"14/1/148/2A, Ground Floor, Near HSBC, Bannerghatta Road, Bangalore",4.0/5,Quick Bites,No,No,Bannerghatta Road,177
+186,South Grand,080 26394647,"23, 7th Main, KSRTC Layout, Chikkalsandra, Main Road, Uttarahalli, Bangalore",3.4/5,Casual Dining,Yes,No,Banashankari,102
+187,Cross Road Cafe,080 41247022,"671,45th Cross, 8th Block, Near Metro Pillar EP 22, Jayanagar, Bangalore",3.9/5,Cafe,Yes,No,Banashankari,91
+188,Gama Gama,"+91 9739946098
++91 9538433344","17, Ground Floor, Near Big Bazar, 100 Feet Ring Road, 3rd Stage, Banashankari, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,264
+189,Brewsky,"+91 9880438170
++91 9880661701","55, 5th Floor, Goenka Chambers, 19th Main Road, Jeewan Griha Colony, Phase 2, JP Nagar, Bangalore",4.4/5,Microbrewery,Yes,Yes,Bannerghatta Road,4312
+190,Donne Biriyani House,"+91 8197743537
+080 26690642","4009, 80 Feet Road, 4th Phase, Banashankari, Bangalore",3.9/5,Quick Bites,Yes,No,Basavanagudi,441
+191,Marwa Restaurant,080 49653014,"21, Ground Floor, B.H.C.S.L Layout, Stage 2, Bannerghatta Road, Bangalore",3.5/5,Casual Dining,Yes,Yes,Bannerghatta Road,551
+192,Firangi Bake,+91 7710090007,"161 A, First Floor, Vinayaka Nagar, Bannerghatta Road, Bangalore",4.0/5,Delivery,Yes,No,Bannerghatta Road,95
+193,Cane-O-La,080 22977700,"44/1, Bull Temple Road, Basavanagudi, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,61
+194,SL Vadapav,+91 9900597313,"Near McDonald's, 4th Block, Jayanagar, Bangalore",4.0/5,Quick Bites,Yes,No,Basavanagudi,78
+195,Tandoor Hut,"080 68888777
++91 8861767232","Opposite Ranka Colony, Bilekahalli, Bannerghatta Road, Bangalore",2.2/5,Casual Dining,No,No,Bannerghatta Road,90
+196,Coastal Mama,"080 41723334
+080 41733334","312, 2nd Floor, 15th Cross, 100 Feet Road, 5th Phase, JP Nagar, Bangalore",4.1/5,Casual Dining,No,Yes,Bannerghatta Road,466
+197,Lalchee's Rasoi,"+91 8197829385
++91 9980902935","Doddakammanahalli Main Road, Near Aikya Apartment, Next to Chef & Butcher, Bannerghatta Road, Bangalore",3.6/5,Casual Dining,No,No,Bannerghatta Road,162
+198,Wangs Kitchen,080 39253925,"Ground Floor, 148/1 and 148/2, Near HSBC, Bannerghatta Road, Bangalore",3.0/5,Casual Dining,Yes,No,Bannerghatta Road,114
+199,Addhuri Udupi Bhojana,+91 9620009302,"1st Floor, Annakuteera, 3rd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,No,No,Banashankari,88
+200,Shiv Sagar,"080 26483631
+080 26483632","4th Floor, Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",2.9/5,Quick Bites,No,No,Bannerghatta Road,85
+201,Mango Tree- The Beer Garden,"+91 9880863789
+080 26851030","99/4, Nataraja Layout, 7th Phase, JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,Yes,Bannerghatta Road,1320
+202,Bottle Breacher,+91 9482512009,"309, 15th Cross, 100 Feet road, 5th Phase, JP Nagar, Bangalore",4.1/5,"Casual Dining, Pub",No,Yes,Bannerghatta Road,1187
+203,Hotboxit,"+91 7026677677
++91 7026577577","2nd Stage, Banashankari, Bangalore",3.8/5,Delivery,No,No,Banashankari,36
+204,Roti Ghar,"080 26629734
++91 9880141967","17, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",3.9/5,Casual Dining,Yes,No,Basavanagudi,750
+205,Polar Bear,080 49652725,"96, Opposite Jain Collage, Basavanagudi, Bangalore",3.8/5,Dessert Parlor,Yes,No,Basavanagudi,71
+206,Cheesiano Pizza,"+91 8043761455
++91 7678077768","16, 17, 18/2 Sarakki Lake, 24th Main, 6th Phase, JP Nagar, Bangalore",4.0/5,Quick Bites,Yes,Yes,Bannerghatta Road,199
+207,Matru Sagar,+91 9972368854,"Shubashree Complex, 50 Feet Road, 1st Stage, Hanumanthanagar, Near Girinagar, Banashankari, Bangalore",3.6/5,Quick Bites,Yes,No,Banashankari,84
+208,Chung's Chinese Corner,"080 26644700
+080 41211700","295, Sri Krishna Complex, 10th Main, 3rd Block, Jayanagar, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,221
+209,Biryani Miya,080 49652509,"175-176, Bannerghatta Main Road, Dollars Colony, Behind Vodafone Store, Phase 4, JP Nagar, Bangalore",3.7/5,Delivery,Yes,No,Bannerghatta Road,36
+210,McDonald's,"080 66000666
+080 42005285","2466, Bhaskar Grand Tower, 24th Cross, Opposite BDA Complex, Banashankari, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,286
+211,Shanghai Court,080 42086199,"1035, 5th Cross, 13th Main, Vijaya Bank Layout, Bannerghatta Road, Bangalore",4.2/5,Casual Dining,Yes,No,Bannerghatta Road,421
+212,1947,"080 41261947
++91 9739989453","62, The High Street Building, 5th Floor, 4T Block, Opposite Vijaya College, Jayanagar, Bangalore",4.1/5,Casual Dining,No,Yes,Basavanagudi,2303
+213,Hiyar Majhe Kolkata,"+91 9108919806
++91 9739059571","57/1, Near Alliance University, 19th Cross, 7th Main, 2nd Stage, BTM, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,244
+214,The Coastal Crew by Fujian on 24th,"080 26499444
++91 8951516623","25/1, Near Sampoorna, 24th Main, 5th Phase, JP Nagar, Bangalore",4.2/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,1028
+215,Desi Wok,"+91 9620133223
++91 9620033223","251/1009, Near Vijaya Bank Layout, Bilekahalli, 4th Stage, BTM, Bangalore",2.7/5,Quick Bites,No,No,Bannerghatta Road,76
+216,Soho Bar & Grill,"080 41609445
+080 41609443","31 South Park Hotel, 198, 2nd & 3rd Floor, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",2.7/5,Pub,No,No,Banashankari,377
+217,Crumb Together,080 49652428,"45, 100 Feet Road, Opposite Mandovi Motors, 4th Phase, JP Nagar, Bangalore",4.1/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,585
+218,Cafe Aira,"+91 9980570955
+080 41121975","23, Kanakapura Road, Near SRS Petrol Pump, Lalbagh West Gate, Basavanagudi, Bangalore",4.1/5,Cafe,Yes,No,Banashankari,216
+219,Royal Chef Naati Oota,"080 26589000
++91 9980074663","312, 15th cross, 5th phase, JP Nagar, Bangalore",4.0/5,Casual Dining,No,No,Bannerghatta Road,193
+220,Pizza Hut,080 39883988,"8, Arikere Gate, Bannerghatta Road, Bangalore",2.4/5,Quick Bites,Yes,No,Bannerghatta Road,204
+221,Waah Biryani,+91 9008812888,"41, Near Royal School, 24th Main, JP Nagar, Bangalore",3.8/5,Quick Bites,No,No,Bannerghatta Road,115
+222,Elegant Dining,"+91 9900900063
++91 9916087820","9/10/9/1, Hulimavu Begur Road, 80 Ft Road, Near DLF Township, Bannerghatta Road, Bangalore",3.6/5,Casual Dining,Yes,Yes,Bannerghatta Road,225
+223,Vi Ra's Bar and Restaurant,"+91 9845063930
++91 7411148111","3828, Near Deve Gowda Petrol Bunk, 30th Cross, 3rd Stage, Banashankari, Bangalore",3.3/5,Bar,No,No,Banashankari,62
+224,Dreamcatcher,"+91 7090470823
++91 7996623818","128/54/10, Ground Floor, Opposite IIM - B, above A2B Dasarapalya, Bannerghatta Road, Bangalore",3.9/5,Cafe,Yes,No,Bannerghatta Road,49
+225,Crumb Together,080 49652428,"45, 100 Feet Road, Opposite Mandovi Motors, 4th Phase, JP Nagar, Bangalore",4.1/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,583
+226,A2B - Adyar Ananda Bhavan,"080 26746999
+080 26748999","153, Satellite Bus Stand, Byataranyapura, Mysore Road, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,155
+227,Cafe Kabana,"+91 8884044348
++91 8762989999","1, Pai Layout, Hulimavu Gate Main Road, Off Bannerghatta Road, Bangalore.",4.0/5,Cafe,No,Yes,Bannerghatta Road,200
+228,Dilish Kitchens,+91 7353133336,"20, 6th Cross, 4th A Main, N.S Palya, Dollors Colony, BTM 2nd Stage, Bangalore, BTM, Bangalore",3.7/5,Casual Dining,No,No,Bannerghatta Road,28
+229,Vi Ra's Bar and Restaurant,"+91 9845063930
++91 7411148111","3828, Near Deve Gowda Petrol Bunk, 30th Cross, 3rd Stage, Banashankari, Bangalore",3.3/5,Bar,No,No,Banashankari,62
+230,Cafe Ajfan,"+91 7022022107
++91 9606791771","Shop 66/1, 4th Block, Near Maiys Hotel, 33rd Cross Road, Jayanagar, Bangalore",4.2/5,Cafe,Yes,No,Basavanagudi,261
+231,Eat Repeat,"+91 9945607074
++91 9880308011","13, 4th Cross Road, NR Colony, Basavanagudi, Bengaluru",3.9/5,Quick Bites,Yes,No,Banashankari,101
+232,Onesta,"+91 8904001150
++91 8904001151","Site 15, 15th Cross, 100 Feet Road, 4th Phase, JP Nagar, Bangalore",4.4/5,"Casual Dining, Cafe",Yes,Yes,Bannerghatta Road,4381
+233,Dilish Kitchens,+91 7353133336,"20, 6th Cross, 4th A Main, N.S Palya, Dollors Colony, BTM 2nd Stage, Bangalore, BTM, Bangalore",3.7/5,Casual Dining,No,No,Bannerghatta Road,28
+234,Petoo,+91 9108829009,"31, 7th Phase, JP Nagar, Bangalore",3.7/5,Casual Dining,No,No,Bannerghatta Road,48
+235,Biryani Durbar,080 49652102,"452, 2nd Main, 8th Cross, Lakshmi Layout, Mico Layout, Arakere, Bannerghatta Road, Bangalore",3.7/5,"Takeaway, Delivery",Yes,No,Bannerghatta Road,128
+236,New Prashanth Hotel,"080 49569558
++91 8197819686","43/2, 100 Feet Road, Kamakya Complex, 3rd Stage, Banashankari, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,388
+237,New Kabab Plaza,+91 8861117766,"8, 19th Cross, 7th Main, BTM Layout, 2nd Stage, BTM, Bangalore",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,135
+238,Funky Punjab,"+91 7829391919
++91 7760686868","123(2), 24th Main, 5th Phase, Opposite To Royal High School, JP Nagar, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,407
+239,Penthouse Cafe,"+91 8884135549
++91 9449449316","1, 30th Main Road, 3rd Stage, Banashankari, Bangalore",4.0/5,Cafe,Yes,No,Banashankari,324
+240,Eurasia Pasta and Barbeque by Little Italy,"080 22452202
+080 22452203","12, 32nd Cross, 7th Block, Jayanagar, Bangalore",4.1/5,"Casual Dining, Bar",Yes,Yes,Banashankari,1063
+241,Adithya,080 49652760,"37, Diagonally Opposite Ranga Shankara, 2nd Phase, JP Nagar, Bangalore",4.0/5,Quick Bites,Yes,No,Basavanagudi,332
+242,Ragoo's,"080 26762888
+080 26763888","16, 5th B Main, KR Road, Jayanagar, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,233
+243,Cafe Kabana,"+91 8884044348
++91 8762989999","1, Pai Layout, Hulimavu Gate Main Road, Off Bannerghatta Road, Bangalore.",4.0/5,Cafe,No,Yes,Bannerghatta Road,200
+244,Tandoor Garden,+91 9141678224,"5, 100 Feet Ring Road, Opposite Reliance Fresh, 1st Stage, BTM, Bangalore",3.6/5,Quick Bites,Yes,No,Bannerghatta Road,70
+245,Rooftop Cafe,"080 26544411
++91 8050712836","16/33, 11th Main, 4th Block, Geetha Colony, Jayanagar, Bangalore",4.1/5,Cafe,Yes,No,Basavanagudi,796
+246,Subz,080 49652607,"Cosmopolitan Club, Ground Floor, 22nd Cross, 3rd Block, Jayanagar, Bengalore",4.2/5,Casual Dining,Yes,Yes,Basavanagudi,2022
+247,Frozen Bottle,080 48664811,"2477, 24th Cross Road, Siddanna Layout, Stage 2, Banashankari, Bangalore",4.2/5,Beverage Shop,Yes,No,Banashankari,146
+248,Grazers,080 26650668,"2, Old 36, 8th F Main, 3rd Block, Jayanagar, Bangalore",3.9/5,Cafe,Yes,Yes,Basavanagudi,291
+249,Cafe Arabica,"080 64442444
++91 8050042444","4, 1st Cross, Christ School Road, Bhavani Layout, Bannerghatta Road, Bangalore",3.8/5,"Cafe, Bakery",No,No,Bannerghatta Road,69
+250,Chavadi,080 49653031,"4, Arama Suites, Sarvabhouma Nagar, Off Bannerghatta Road, Bannerghatta Road, Bangalore",4.4/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,2237
+251,Kanteen The Eatery,080 43749430,"22, Nyanapanahalli Main Road, Opposite Dominos Road, Before New DLF Township Circle, Bannerghatta Road, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,78
+252,Green Gardenia,"080 26698822
++91 9945704570","376, 1st Floor, Tripura Arcade, MK Puttalingaiah Road, Above SBI Bank, Banashankari, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,160
+253,Caffe Pascucci,080 41200431,"690/8, 14th Main, 15th Cross, 2nd Phase, JP Nagar, Bangalore",4.0/5,Casual Dining,Yes,Yes,Bannerghatta Road,790
+254,Meghana Foods,080 49653564,"52, 1st Floor, 33rd Cross, 4th Block, Jayanagar, Bangalore",4.4/5,Casual Dining,Yes,No,Banashankari,4401
+255,Brews N Bites,+91 9886791151,"81/3/4, 5th Cross, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",2.7/5,"Quick Bites, Cafe",Yes,No,Bannerghatta Road,48
+256,Firangi Bake,+91 7710090007,"8th Main Road, Remco Bhel Layout, Ideal Homes Township, Rajarajeshwari Nagar, Bengaluru",4.0/5,Delivery,Yes,No,Banashankari,53
+257,Kamat Swaad,"+91 9686111608
++91 9448452341","795, 8th Main, 3rd Phase, JP Nagar, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,193
+258,Tiwari's,"+91 9844734325
++91 9844400514","39/3 &44, Spar Hypermarket, Bannerghatta Mmain Road, Bannerghatta Road, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,75
+259,Vaathsalya Millet Cafe,"+91 9449064494
++91 8125995641","277, 15th Cross, 21 Main, Outer Ring Road, JP Nagar 5th Phase, JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,Yes,Bannerghatta Road,293
+260,Matka,+91 9513366655,"6185/ 15/1, SOS, Doddakamanahalli, Bannerghatta Road, Bangalore",3.7/5,Delivery,Yes,No,Bannerghatta Road,181
+261,Slate Cafe,+91 8040923832,"5th Cross Road, Dollar Layout, 3rd Phase, JP Nagar, Bangalore",4.1/5,Cafe,Yes,No,Bannerghatta Road,46
+262,Ugadi,+91 9742231320,"609, 10th A Main Road, 4th Block, Jayanagar, Bangalore",2.9/5,Casual Dining,Yes,No,Banashankari,177
+263,Stoned Monkey,+91 9972710694,"290, 15th Cross, 5th phase, JP Nagar, Bangalore",3.9/5,Dessert Parlor,Yes,No,Bannerghatta Road,239
+264,Chatar Patar,+91 7619353103,"24/1, 23rd Cross, 6th Main Road, Opposite Kaveri Grameena Bank, 2nd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,No,No,Banashankari,65
+265,Vidyarthi Bhavan,080 26677588,"32, Gandhi Bazaar, Near Gandhi Bazaar Circle, Basavanagudi, Bangalore",4.4/5,Quick Bites,No,No,Banashankari,4460
+266,Chai Point,+91 8880141000,"Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",3.6/5,"Beverage Shop, Quick Bites",Yes,No,Bannerghatta Road,132
+267,The Coffee Shack,+91 9731644212,"6th Block, 3rd Stage, Banashankari, Bangalore",4.2/5,Cafe,Yes,Yes,Banashankari,164
+268,Cravings,+91 9986624240,"Shop 11& 12, First Floor, 3618/1, Dodda Kammanahalli, Main Road, Besides Campus Student Communities Building, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,139
+269,Shiv Sagar,"080 26483631
+080 26483632","4th Floor, Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",2.9/5,Quick Bites,No,No,Bannerghatta Road,85
+270,Waffle Head,080 49653258,"24, 3rd 'B' Cross, 7th Cross, 18th Main, 2nd Stage, BTM, Bangalore",4.0/5,"Dessert Parlor, Beverage Shop",Yes,No,Bannerghatta Road,35
+271,Black Mug Cafe,"+91 9845561119
++91 8095257151","1-2, Near Bhaganagar Bus Stop, Shankarnaga Road, Bhaganagar Layout, Gottigere, Bannerghatta Road, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,171
+272,Roti Wala,+91 9731100002,"688, 7th Main, 10th Cross Main Road, 2nd Stage, BTM, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,197
+273,Kundana,080 49652729,"176, 1st Floor, Above Vodafone Store, Opposite Brand Factory, Bannerghatta Road, Bangalore",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,110
+274,Tree Top,080 49652744,"Temple Tree Hotel, 3, 9th Cross, Wilson Garden, Bangalore",3.8/5,Casual Dining,Yes,No,Basavanagudi,74
+275,The Biryani Cafe,+91 7010846043,"476, 2nd Floor, 9th Cross, Avalahalli BDA Park, BSK 3rd Stage, Banashankari, Bangalore",4.1/5,Quick Bites,No,No,Banashankari,520
+276,Wamama,"+91 8042111599
++91 8971818009","2466, Bhaskar Grand Tower, 24th Cross, Opposite BDA Complex, Banashankari, Bangalore",4.2/5,Casual Dining,Yes,Yes,Basavanagudi,354
+277,Hiyar Majhe Kolkata,"+91 9108919806
++91 9739059571","57/1, Near Alliance University, 19th Cross, 7th Main, 2nd Stage, BTM, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,244
+278,The Chocolate Room,080 42112381,"45/1, 45/2, Bangalore Central, 45th Cross, 9th Block, Jayanagar, Bangalore",3.9/5,Food Court,Yes,No,Bannerghatta Road,153
+279,Basavanagudi Mylari,+91 9880623407,"26/2, Bugle Rock Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka",4.0/5,Quick Bites,No,No,Banashankari,52
+280,Puliyogare Point,"+91 9986953484
++91 9880156235","81, East Anjaneya Street, NR Colony, Near Basavanagudi, Basavanagudi, Bangalore",4.2/5,Quick Bites,Yes,No,Banashankari,444
+281,Peppy Peppers,"+91 8042297555
++91 7022455300","942, 3rd Floor, 21st Main Road, 2nd Stage, Banashankari, Bangalore",4.2/5,Casual Dining,No,No,Banashankari,244
+282,Casa Piccosa,"080 39510999
+080 26538999","745/AB, 2nd Floor, Shravanee Square, 24th Main, 15th cross, 6th Phase, JP Nagar, Bangalore",4.1/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,842
+283,Chocoberry,+91 9742644747,"30, 8th F Main Road, Jayanagar, Bangalore",3.5/5,Dessert Parlor,Yes,No,Banashankari,56
+284,Hind Ka Chulah,"+91 9738933467
++91 8970646882","Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",3.8/5,Food Court,Yes,No,Bannerghatta Road,181
+285,#refuel,+91 8971227222,"7, Ground Floor, RR Commercial Complex, Akshay Nagar, Bannerghatta Road, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,37
+286,Pramukh Family Restaurant,"080 26622484
++91 8970968889","5, 1st Floor, Mallariah Complex, Gandhi Bazar Main Road, Basavanagudi, Bangalore",3.9/5,Casual Dining,No,No,Banashankari,111
+287,Hotel Aradhana,"+91 9731763663
++91 9448059620","193, N.S. Pallya, Bannerghatta Road, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,51
+288,Smacznego,"+91 9945230807
++91 9743804471","2470, 21 Main Road, 25th Cross, Banashankari, Bangalore",4.2/5,Cafe,Yes,No,Basavanagudi,504
+289,Skytouch Le Cafe,"080 40932483
++91 9740848803","724, 3rd Floor, RBI Layout, Rini Pearl, Opposite E.K. Retail, 7th Phase, JP Nagar, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,127
+290,Goa 0 Km,080 49653548,"1828, 50 Feet Road, 2nd Stage, Kumaraswamy Layout, Bangalore",3.6/5,Casual Dining,Yes,Yes,Banashankari,163
+291,WAFL,+91 8951725759,"3rd Floor, Food Court, Vega City Mall, Srinivas Industrial Estate, Bannerghatta Road, Bangalore",3.9/5,Food Court,Yes,No,Bannerghatta Road,40
+292,Le Arabia,+91 8041410082,"15, Bannerghatta Main Road, JP Nagar, Bangalore",NEW,Casual Dining,Yes,No,Bannerghatta Road,0
+293,Puliyogare Point,"+91 9986953484
++91 9880156235","81, East Anjaneya Street, NR Colony, Near Basavanagudi, Basavanagudi, Bangalore",4.2/5,Quick Bites,Yes,No,Basavanagudi,444
+294,Iyer's Tiffin Centre,+91 9986669388,"38/2, 1st Main, Mount Joy Extension, Hanumanthanagar, Girinagar, Banashankari, Bangalore",3.8/5,Quick Bites,No,No,Banashankari,62
+295,Jalpaan,"080 26761992
++91 9591996826","539/49, 9th Cross, Kanakpura Road, 7th Block, Jayanagar, Bangalore",4.0/5,Casual Dining,Yes,Yes,Banashankari,866
+296,Shagun Sweets & Foods,"080 42277117
++91 9108457117","294, 7th Main, 7th Cross, BTM 2nd Stage, BTM, Bangalore",3.5/5,"Sweet Shop, Quick Bites",Yes,No,Bannerghatta Road,221
+297,Domino's Pizza,"080 26710070
+18602100000","645, 1st Floor, 24th Cross, 24th Main, 2nd Stage, Banashankari, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,540
+298,Oogway Express,"080 48538853
++91 9663634567","18, 24th Main Road, Near Sobha Tulip Apartment, 5th Phase, JP Nagar, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,347
+299,Foodiction,+91 9916107070,"2/1, 7th Main, Dwarakangar, Hosakeregalli, Banashankari, Bangalore",2.8/5,Quick Bites,Yes,No,Banashankari,506
+300,Green Onion,+91 8747899743,"4th Floor, Gopalan Innovation Mall, Bannerghatta Road, Bangalore",3.3/5,Food Court,No,No,Bannerghatta Road,50
+301,Oottupura Family Restaurant,+91 9731552255,"Opposite Shell Petrol Bunk, Gottigare Bannerghatta Road, Bangalore",3.4/5,Quick Bites,Yes,No,Bannerghatta Road,224
+302,Sai Abhiruchi,080 49653037,"808, 1st Floor, Above Eye World Optical, 7th Cross, 2nd Stage, BTM, Bangalore",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,335
+303,Ranganna Military Hotel,080 43027346,"61, 1st Floor, KR Road, 7th Block, Jayanagar, Bangalore",4.2/5,Quick Bites,No,No,Banashankari,725
+304,Cafe Potpourri,"+91 8884553680
++91 7026274274","204, 4th Cross, KSRTC Layout, 2nd Phase, JP Nagar, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,131
+305,Brew Meister,080 49652498,"523, 33rd Cross, Jayanagar, Bangalore",4.1/5,"Microbrewery, Casual Dining",Yes,Yes,Banashankari,970
+306,Belly Squad Food Truck,+91 7760617526,"Back Gate of BMS College Hanumanthanagar, Basavanagudi, Bengaluru",3.8/5,Food Truck,No,No,Banashankari,55
+307,Chefeana,+91 8050752925,"3474, Maruti Dental College Road, Dodakamanhalli, Opposite Valmark Ananda Apartment, Bannerghatta Road, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,212
+308,Stories,080 49653116,"15, 24th Main Road, 1st Phase, JP Nagar, Bangalore",4.2/5,"Pub, Casual Dining",Yes,Yes,Bannerghatta Road,2166
+309,The Royal Corner - Pai Viceroy,"+91 9980909054
++91 9845184810","Pai Viceroy, 1504, 16th Cross, 9th Main, 3rd Block, Jayanagar, Bangalore",4.2/5,Casual Dining,Yes,Yes,Banashankari,815
+310,Anna Kuteera,+91 9620009302,"21, 80 Feet Road, 3rd Phase, 4th Block, 3rd Stage, Banashankari, Bangalore",4.0/5,Casual Dining,Yes,No,Banashankari,771
+311,J Spice,"+91 8026739252
++91 9008520007","632/A, 24th Cross, 2nd Stage, Banashankari, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,59
+312,Pappu Da Dhaba,+91 6361252138,"1424/81, 9th Block East, South End, A Cross, Jayanagar, Bangalore",3.0/5,Quick Bites,Yes,No,Bannerghatta Road,57
+313,Cucumber Town,"+91 8884566443
++91 8043365726","45, Kasthuri Nivasa, 2nd Floor, 19th Main, 2nd Stage, BTM, Bangalore",4.2/5,Delivery,Yes,No,Bannerghatta Road,306
+314,Utsav,+91 9632695401,"46, 80 Feet Road, 3rd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,Yes,No,Banashankari,59
+315,Guru Greens,"+91 9845055553
++91 9845955556","97/2, Gottigere, Bannerghatta Road, Bangalore",3.8/5,Casual Dining,No,No,Bannerghatta Road,89
+316,Upahara Darshini,+91 9845530078,"Opposite Bangalore Central Mall, 9th Block, Jayanagar, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,167
+317,PHEW (Play Hard Eat Wild),+91 9365075799,"240, 7th cross, 1st Main, Mico Layout, Opposite Sate Bank of India, 2nd Stage, BTM Bangalore",3.9/5,Cafe,Yes,Yes,Bannerghatta Road,486
+318,Anand Sweets and Savouries,080 22446973,"4 & 5, 27th Cross, 4th Block, Jayanagar, Bangalore",3.9/5,Sweet Shop,Yes,No,Banashankari,84
+319,Calvin's,"080 40928823
++91 8970112299","67, 15th Cross, 3rd Phase, JP Nagar, Bangalore",2.9/5,Dessert Parlor,No,No,Bannerghatta Road,231
+320,Hotel Aradhana,"+91 9731763663
++91 9448059620","193, N.S. Pallya, Bannerghatta Road, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,51
+321,Vietnamese Kitchen,"080 26697884
+080 26697883","Pavanashree Nilayam, 7 Block, Banagirinagara, Banashankari, Bangalore",3.6/5,Casual Dining,Yes,No,Banashankari,105
+322,WAFL,+91 8951725759,"3rd Floor, Food Court, Vega City Mall, Srinivas Industrial Estate, Bannerghatta Road, Bangalore",3.9/5,Food Court,Yes,No,Bannerghatta Road,40
+323,Samosa Singh,"+91 7349542202
++91 9148998212","#12, 12th Cross BDG Residency, Puttenahalli",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,153
+324,Messy Bowl,+91 8553453196,"24 th cross, 15th Main Road, Siddanna Layout, Banashankari Stage II, Banashankari, Bangalore",3.8/5,Quick Bites,No,No,Banashankari,70
+325,Polar Bear,080 49653453,"71, 1st Main Road, Panduranga Nagar, Doresanipalya Ward, Bannerghatta Road, Bangalore",3.9/5,Dessert Parlor,Yes,No,Bannerghatta Road,188
+326,Chaitanya Cafe,+91 9902125334,"135/15, 100 Feet Ring Road, 3rd Phase, JP Nagar, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,92
+327,Onesta,"080 48653961
+080 48655715","2469, 3rd Floor, 24th Cross, Opposite BDA Complex, 2nd Stage, Banashankari, Bangalore",4.6/5,"Casual Dining, Cafe",Yes,Yes,Basavanagudi,2556
+328,Sri Guru Kottureshwara Davangere Benne Dosa,"+91 9448305384
++91 9060079480","49/1, Subbaraoshetty Road, Netkallappa Circle, Basavanagudi, Bangalore",4.1/5,Quick Bites,Yes,No,Banashankari,558
+329,Slate Cafe,+91 8040923832,"5th Cross Road, Dollar Layout, 3rd Phase, JP Nagar, Bangalore",4.1/5,Cafe,Yes,No,Bannerghatta Road,46
+330,Faasos,+91 7700020020,"80, BDA Complex, 2nd Stage, Banashankari, Bangalore",4.2/5,Quick Bites,Yes,No,Banashankari,415
+331,KFC,080 33994444,"1, 80 Feet Road, 6th Block, 3rd Stage, Banashankari, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,505
+332,Mahesh Friends Food Center,+91 9731081364,"14/6, 9th Main Road, Opposite Water Tank, 100 Feet Road, 2nd Stage, BTM, Bangalore",2.9/5,Quick Bites,Yes,No,Bannerghatta Road,126
+333,Timepass Dinner,"+91 9980040002
++91 9980063005","37, 5-1, 4th Floor, Bosco Court, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,286
+334,Shake It Off,+91 9008002832,"34, Ground Floor, 15th Cross, 4th Phase, JP Nagar, Bangalore",4.0/5,Beverage Shop,Yes,No,Bannerghatta Road,65
+335,Apsara Ice Cream,04 141717410,"1065 B, 5th Cross, Vijaya Bank Layout, Bilekahalli, Bannerghatta Road, Bangalore",4.0/5,Dessert Parlor,No,No,Bannerghatta Road,65
+336,Floured-Baked With Love,"+91 9845552266
++91 9845552288","415, 1st C Cross, Banashankari 3rd Stage, 5th Block, Bangalore, Banashankari, Bangalore",3.8/5,"Takeaway, Delivery",No,No,Banashankari,45
+337,Gokul Veg,"+91 9980978388
+080 26627612","1st Floor, GR Plaza, DVG Road, Near Gandhi Bazaar circle, Basavanagudi, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,469
+338,Tandoori Knight,"+91 9035297404
++91 9731504721","34, 22nd Main, 22nd Cross, Opposite BDA, 2nd Stage, Banashankari, Bangalore",3.0/5,Quick Bites,Yes,No,Banashankari,290
+339,Zaitoon,"080 41477977
+080 41488988","21, 24th Main Road, 6th Phase, JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,Yes,Bannerghatta Road,1538
+340,Hakuna Matata,"+91 9741133866
++91 9880548165","1231/35/2, 24th Main, 7th Phase, Opposite Brigade Palm Springs, JP Nagar, Bangalore",4.5/5,"Casual Dining, Bar",No,No,Bannerghatta Road,2781
+341,The Onyx - The HHI Select Bengaluru,"+91 9742281239
++91 8884404894","The HHI Select Bengaluru Hotel, 686, 15th Cross, Ring Road, 2nd Phase, JP Nagar, Bangalore",3.3/5,Casual Dining,No,No,Bannerghatta Road,177
+342,Gud Dhani,080 50060017,"170, 16th Main, 2nd Stage, BTM, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,827
+343,Curry Leaves,"+91 8048666976
++91 8026760130","15, 1st Main, Kariyappa Road, Basavanagudi, Bangalore",4.1/5,Casual Dining,Yes,No,Banashankari,176
+344,Barbeque Nation,+91 8064806060,"67, 15th Cross, 6th B Main, JP Nagar, Bangalore",4.7/5,Casual Dining,No,Yes,Bannerghatta Road,3845
+345,The Egg Factory,080 40124848,"288, Ground Floor, Opposite HP Petrol Pump, 15th Cross, 18th Main, 5th Phase, JP Nagar, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,1305
+346,Targaryen's Kitchen,+91 7002618660,"63, 7th Cross , 24th Main, 2nd Phase, JP Nagar, Bangalore",3.6/5,Casual Dining,Yes,No,Bannerghatta Road,43
+347,Savoury - Sea Shell Restaurant,"080 49994999
+080 65555988","10, Near Maruti Sagar Automobiles, Bhavani Layout, Bannerghatta Road, Bangalore",3.9/5,Casual Dining,Yes,Yes,Bannerghatta Road,1227
+348,Woodee Pizza,+91 7406827272,"305, Anand NR Onyx, 15th Cross, 100 Feet Ring Road, 5th Phase Extension, JP Nagar, Bangalore",2.7/5,Cafe,Yes,No,Bannerghatta Road,85
+349,Chai Kraft,+91 9946666099,"146, 6th C Main Road, 1st Block, Jayanagar, Bangalore",4.1/5,Beverage Shop,Yes,No,Banashankari,30
+350,Vinaya Coffee Moments,"+91 9538699211
+080 49566825","Someshwara Bhavan, RBI Layout, 7th Phase, Kothnur Main Road, JP Nagar, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,46
+351,Jalsa,"080 42297555
++91 9743772233","942, 21st Main Road, 2nd Stage, Banashankari, Bangalore",4.1/5,Casual Dining,Yes,Yes,Basavanagudi,775
+352,Addhuri Udupi Bhojana,+91 9620009302,"1st Floor, Annakuteera, 3rd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,No,No,Banashankari,88
+353,Kadala Tarangaa,"+91 9743491480
++91 9483528275","27, 27th Cross, 1st Floor, Kadamba Complex, 2nd Stage, Banashankari, Bangalore",3.6/5,Casual Dining,Yes,No,Banashankari,129
+354,Wazir's,"080 22292668
+080 41145555","546/5, Langford Road, Opposite Hockey Stadium, Shanti Nagar, Bangalore",3.3/5,Casual Dining,Yes,No,Basavanagudi,261
+355,Hind Ka Chulah,"+91 9738933467
++91 8970646882","Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",3.8/5,Food Court,Yes,No,Bannerghatta Road,182
+356,Oottupura Family Restaurant,+91 9731552255,"Opposite Shell Petrol Bunk, Gottigare Bannerghatta Road, Bangalore",3.4/5,Quick Bites,Yes,No,Bannerghatta Road,224
+357,KFC,080 33994444,"948, 24th Main Road, 2nd Phase, JP Nagar, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,437
+358,SlimSins Cafe,+91 9535582766,"34/1, 1st Cross, 6th Main, 4th Block, Jayanagar, Bangalore",4.1/5,Cafe,No,No,Basavanagudi,707
+359,Woodee Pizza,+91 7406822844,"3353, 2nd Cross, Opposite Auden School, Hoskerehalli Cross, 3rd Stage, Banashankari, Bangalore",3.7/5,Cafe,Yes,No,Banashankari,180
+360,Cafe Mondo,080 42088686,"2/2, Pattalamma Gudi Street, Armugam Circle, Near South End Circle, Basavanagudi, Bangalore",3.7/5,Cafe,Yes,No,Basavanagudi,514
+361,Shanmukha,080 49652639,"62, RB Fashion House, Jyoti Nivas College Road, Koramangala 5th Block, Bangalore",4.0/5,Casual Dining,Yes,No,Basavanagudi,774
+362,Hara Fine Dine,"080 42112211
++91 9880412211","2465, 2nd Floor, Opposite BDA Complex, 24th Cross, 2nd Stage, Banashankari, Bangalore",4.0/5,Casual Dining,Yes,Yes,Banashankari,633
+363,Shanthi Sagar,+91 8217521220,"77/1, 24th Main, 2nd Phase, JP Nagar, Bangalore",3.6/5,Casual Dining,Yes,No,Bannerghatta Road,518
+364,Bunt's Biriyani Palace,"080 26697231
++91 8711090256","487, 80 Feet Road, Bank Colony, 1st Stage, Banashankari, Bangalore",3.0/5,Quick Bites,Yes,No,Banashankari,213
+365,Pure & Natural,"+91 9880372471
+080 26633304","Near National College, 7th Block, Jayanagar, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,211
+366,BOX8- Desi Meals,022 33552698,"100 Feet Ring Road, 2nd Phase, Banashankari, Bangalore",4.1/5,"Takeaway, Delivery",Yes,No,Banashankari,340
+367,Chulha Chauki Da Dhaba,"080 41204283
++91 7349738056","13, 7th Cross, 2nd Phase, JP Nagar, Bangalore",4.2/5,Casual Dining,Yes,No,Bannerghatta Road,2350
+368,Chai Point,+91 8880141000,"Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",3.6/5,"Beverage Shop, Quick Bites",Yes,No,Bannerghatta Road,132
+369,Chumma Delicious,"+91 9341262402
++91 9108648373","412, 1st Cross, Vidyapeeta Road, 3rd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,Yes,No,Banashankari,237
+370,Checkpost,"00 08043712184
++91 9880439859","47/1, 9th Main,1st Cross, Miniforest, Phase 3, JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,No,Bannerghatta Road,952
+371,Chicken Hunt,"+91 8762427116
++91 9591490143","222, 100 Feet Road, Near Kathriguppe Signal, Opposite Udbav Hospital, 6th Block, 3rd Stage, Banashankari, Bangalore",3.5/5,Quick Bites,Yes,No,Banashankari,88
+372,Vasudev Adiga's,"+91 8494911156
+080 22940208","204, Opposite HSBC Bank, 11th KM Stone, Bilekahalli, BG Road, Bannerghatta Road, Bangalore",2.3/5,Casual Dining,No,No,Bannerghatta Road,291
+373,Sip n Dine,"+91 9741464017
+080 23402484","998/20, Poornima Complex, First Floor, Service Road, R.P.C. Layout, Vijay Nagar, Bangalore",3.6/5,Casual Dining,Yes,No,Banashankari,218
+374,Andhra Ruchulu,"+91 9980909192
++91 9900265022","The President Hotel, 79/8, Diagonal Road, 3rd Block, Jayanagar, Bangalore",4.1/5,"Casual Dining, Bar",Yes,Yes,Banashankari,666
+375,Bhukkhad Baba,+91 6361316696,"7th Cross, 6th Main, Shakambhari Nagar, Sarakki, JP Nagar, Bangalore",3.7/5,Quick Bites,Yes,No,Basavanagudi,125
+376,Kirthi's Biryani,"080 26711554
++91 9741406338","405, 24th Cross, 9th Main, 2nd Stage, Banashankari, Bangalore",3.8/5,Cafe,Yes,No,Banashankari,144
+377,Nagarjuna,"080 41300400
+080 41300500","174/1, Bannerghatta Main Road, Bannerghatta Road, Bangalore",4.2/5,Casual Dining,No,No,Bannerghatta Road,1278
+378,Garma Garam,"+91 9986834292
++91 8660426565","MICO Layout, Arakere, Opposite Vijaya Bank, Bannerghatta Road, Bangalore",3.2/5,Quick Bites,Yes,No,Bannerghatta Road,144
+379,Vi Ra's Bar and Restaurant,"+91 9845063930
++91 7411148111","3828, Near Deve Gowda Petrol Bunk, 30th Cross, 3rd Stage, Banashankari, Bangalore",3.3/5,Bar,No,No,Banashankari,62
+380,Upahar Sagar,"+91 9164571705
+080 26760336","727, 23rd Cross, KR Road, 2nd Stage, Banashankari, Bangalore",3.8/5,Quick Bites,No,No,Banashankari,39
+381,Dev Sagar - Food Street,"+91 9886204745
+0161 26624745","11/2, Old Market, V V Puram, Basavanagudi, Bangalore",4.1/5,Quick Bites,Yes,No,Basavanagudi,233
+382,Seasons,"+91 7411898898
++91 7411798798","7, DSR Galleria, Opp Kalyani Motors, Bilekahalli Gate, Bannerghatta Road, Bangalore",3.8/5,Casual Dining,Yes,Yes,Bannerghatta Road,500
+383,Donne Biriyani House,"+91 8197743537
+080 26690642","4009, 80 Feet Road, 4th Phase, Banashankari, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,441
+384,Lalchee's Rasoi,"+91 8197829385
++91 9980902935","Doddakammanahalli Main Road, Near Aikya Apartment, Next to Chef & Butcher, Bannerghatta Road, Bangalore",3.6/5,Casual Dining,No,No,Bannerghatta Road,162
+385,Gud Dhani,080 50060017,"170, 16th Main, 2nd Stage, BTM, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,827
+386,Alankrutha,080 71967536,"935, Sri Arcade, 1st Floor, 16th Main Road, Near Udupi Garden Signal, BTM, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,255
+387,Bikaner Jn,+91 9163568669,"62, 24th Main, 7th Cross, 2nd Phase, Opposite to R V Dental College, JP Nagar, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,85
+388,Taaza Thindi,080 49510845,"115, 100 Feet Ring Road, Kathriguppe, Banashankari, Bangalore",4.7/5,Quick Bites,No,No,Banashankari,651
+389,Green Gardenia,"080 26698822
++91 9945704570","376, 1st Floor, Tripura Arcade, MK Puttalingaiah Road, Above SBI Bank, Banashankari, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,160
+390,Bhavani Restaurant,"+91 7349414217
+080 43752748","54, Bull Temple Road, Gavipuram Extn, Gavipuram Extention, Basavanagudi, Bangalore",3.9/5,Quick Bites,No,No,Banashankari,100
+391,The Krishna Grand Xpress,+91 9845108265,"183/28, 2nd Main Road, 36th B Cross, 7th Block, Jayanagar, Bangalore",4.0/5,Quick Bites,Yes,No,Banashankari,136
+392,Grills & Rolls,080 26593949,"17/1, SNVR Complex, Opposite Royal School, 24th Main, 18th Cross, JP Nagar, Bangalore",2.5/5,Quick Bites,Yes,No,Bannerghatta Road,321
+393,The Shawarma Shop,+91 9343665007,"688, Opposite IWWA Party Hall, 7th Main, BTM, Bangalore",4.1/5,Quick Bites,Yes,No,Bannerghatta Road,381
+394,Asha Sweets Centre,080 26492939,"9, 24th Main, 4th Cross, Marenahalli Village, 2nd Phase, JP Nagar, Bangalore",3.9/5,Dessert Parlor,Yes,No,Bannerghatta Road,42
+395,Melt - Eden Park,+91 9606487102,"Eden Park7, 8 Doresani Palya, Near Kalyani Magnum, Opposite Oracle, 5th Phase, JP Nagar, Bangalore",4.0/5,Casual Dining,Yes,Yes,Bannerghatta Road,347
+396,Spice Elephant,080 41714161,"2nd Floor, 80 Feet Road, Near Big Bazaar, 6th Block, Kathriguppe, 3rd Stage, Banashankari, Bangalore",4.1/5,Casual Dining,Yes,No,Banashankari,787
+397,Imperial Restaurant,"+91 7338431313
+080 26741313","153, Satellite Bus Stand, Byataranyapura, Mysore Road, Bangalore",3.7/5,Casual Dining,Yes,No,Banashankari,264
+398,Spice Elephant,080 41714161,"2nd Floor, 80 Feet Road, Near Big Bazaar, 6th Block, Kathriguppe, 3rd Stage, Banashankari, Bangalore",4.1/5,Casual Dining,Yes,No,Banashankari,787
+399,Krispy Kreme,080 41718398,"Opposite Kala Mandir, 11th Main, 4th Block, Jayanagar, Bangalore",4.0/5,Dessert Parlor,Yes,No,Basavanagudi,253
+400,De Thaali,080 22445267,"137/4, 8th Main Road, 27th Cross, Jayanagar, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,144
+401,Stoned Monkey,"+91 9972710694
++91 9972710894","415, 9th Main, 24th Cross, 2nd Stage, Banashankari, Bangalore",4.3/5,Dessert Parlor,Yes,No,Banashankari,860
+402,Brews N Bites,+91 9886791151,"81/3/4, 5th Cross, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",2.7/5,"Quick Bites, Cafe",Yes,No,Bannerghatta Road,48
+403,The Egg Factory,080 40124848,"288, Ground Floor, Opposite HP Petrol Pump, 15th Cross, 18th Main, 5th Phase, JP Nagar, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,1306
+404,Vybhava,+91 8026653198,"35-1, Near Yediyur Lake, Kanakapura Road, Jayanagar, Bangalore",3.8/5,Quick Bites,No,No,Banashankari,39
+405,Vyanjan,+91 9916937446,"744, 13th Main, 7th Cross, BTM 2nd Stage, BTM, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,199
+406,Amande Patisserie,080 26761080,"115, 4th Main, 4th Stage, Thyagarajanagar, Near, Basavanagudi, Bangalore",4.0/5,Bakery,Yes,No,Banashankari,73
+407,Upahar Sagar,"+91 9164571705
+080 26760336","727, 23rd Cross, KR Road, 2nd Stage, Banashankari, Bangalore",3.8/5,Quick Bites,No,No,Banashankari,39
+408,Basmati Delights,"080 65996599
++91 9141111222","Shop 1, 1st Floor, BTM Complex, 9th Main Road, Layout 1st Stage, BTM, Bangalore",4.0/5,Delivery,Yes,No,Bannerghatta Road,869
+409,Pizza Stop,080 46640404,"66/1, Kanakpura Road, Basavanagudi, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,164
+410,Beijing Bites,"080 41463677
+080 41463877","31, 1st Floor, RR Images, Panduranga Nagar, Near Arakere, Bannerghatta Road, Bangalore",2.7/5,Casual Dining,No,No,Bannerghatta Road,160
+411,Gustoes Beer House,080 49653521,"10, 30th Main, Deve Gowda Petrol Bunk Road, 3rd Stage, Banashankari, Bangalore",4.1/5,Pub,No,No,Banashankari,868
+412,Tiwari's,"+91 9844733389
++91 7829398815","616/2, 31st Cross, 10th A Main Road, 4th block, Jayanagar, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,70
+413,D View Cafe,+91 9538943596,"1318, Near Bangalore Central, 2nd Phase, JP Nagar, Bangalore",4.0/5,"Cafe, Quick Bites",Yes,No,Bannerghatta Road,507
+414,Dadi's Dum Biryani,"+91 7090377777
+080 43716050","7, 2nd Floor, Krish Towers, Arekere Signal, Bannerghatta Road, Bangalore",4.0/5,Casual Dining,Yes,Yes,Bannerghatta Road,739
+415,Sattvam,"080 26595000
++91 9483275526","281, 2nd Floor, 15th Cross, 5th Phase, JP Nagar, Bangalore",4.3/5,Casual Dining,No,No,Bannerghatta Road,353
+416,Vinny's,080 26716795,"2467, 24th Cross, 2nd Stage, Banashankari, Bangalore",4.2/5,Casual Dining,Yes,Yes,Banashankari,2115
+417,Vinaya Cafe,"080 41233313
++91 7022281100","30, 33rd Main, 16th Cross, 6th Phase, JP Nagar, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,55
+418,Dadi's Dum Biryani,"+91 7090999991
++91 7090599999","14, Krishnanagara Industrial Area, Next To Christ College, Near Dairy Circle, BTM, Bangalore",4.1/5,Casual Dining,Yes,Yes,Basavanagudi,2723
+419,Namma Kudla,"080 42075762
++91 9448212907","18, Near RV Dental College, 5th 'A' Cross, Marenahalli, 2nd Phase, JP Nagar, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,200
+420,Timepass Dinner,"+91 9980040002
++91 9980063005","37, 5-1, 4th Floor, Bosco Court, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,286
+421,Olive - Era,"080 42017174
+080 42021219","1763, Near Swathi Nursing Home, 14th Main Road, 1st Stage, Kumaraswamy Layout, Bangalore",3.3/5,Casual Dining,Yes,No,Banashankari,511
+422,Ishta Cafe,+91 9972314007,"26/2, Dodda Kammanahalli, Bannerghatta Road, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,63
+423,Parkview,"080 41509991
++91 9343078070","45, Opposite Mini Forest, 1st Main, 3rd Phase, JP Nagar, Bangalore",4.0/5,Quick Bites,No,No,Bannerghatta Road,129
+424,Pizza Stop,080 46640404,"2454, 17th E Cross, 9th Main, 2nd Stage, Banashankari, Bangalore",3.0/5,Quick Bites,Yes,No,Banashankari,87
+425,House Of Kebabs,080 49653042,"39/1, R.V Road, Opposite Vijaya College, Basavanagudi, Bangalore",3.8/5,Casual Dining,Yes,No,Basavanagudi,540
+426,Cafe Ajfan,"+91 7022022107
++91 9606791771","Shop 66/1, 4th Block, Near Maiys Hotel, 33rd Cross Road, Jayanagar, Bangalore",4.2/5,Cafe,Yes,No,Banashankari,261
+427,Castle Rock,"080 42014000
++91 9845030125","1/2, Opposite Indian Oil Petrol Bunk, 1st Cross, Kaderanhalli Crossroad, Subramanyapura Main Road, Padmanabhanagar, Uttarahalli, Bangalore",3.6/5,Casual Dining,Yes,No,Banashankari,172
+428,XO Belgian Waffle,080 45128804,"948, 16th Main, MICO Layout, 2nd Stage, BTM, Bangalore",4.5/5,Dessert Parlor,Yes,No,Bannerghatta Road,549
+429,FreshMenu,080 40424242,"10, Stavyah Arcade, 3rd Floor 9th Main, Yarab Nagar Main Road, Banashankari, Bangalore",3.9/5,Delivery,Yes,No,Basavanagudi,627
+430,Mudpipe Cafe,+91 9448056565,"44-45, Terrace Floor, 24th Main Road, 7th phase, JP Nagar, Bangalore",3.9/5,Cafe,Yes,Yes,Bannerghatta Road,727
+431,Sree Krishna Kafe,+91 8792556140,"5, SSAR Towers, Opposite Royal School, 24th Main Road, 5th Phase, JP Nagar, Bangalore",3.9/5,Quick Bites,No,No,Bannerghatta Road,115
+432,Drunken Monkey,"+91 8618471544
++91 9148489793","54/55, 3rd Cross, Omkar Nagar, Arekere Gate, Bannerghatta Road, Bangalore",4.4/5,"Beverage Shop, Quick Bites",Yes,No,Bannerghatta Road,288
+433,Sweet Truth,+91 7710055553,"161 A, First Floor, Vinayaka Nagar, Bannerghatta Road, Bangalore",4.1/5,Delivery,Yes,No,Bannerghatta Road,41
+434,Al-Bek,080 43334321,"1260, SY 35/4, SJR Towers, 24th Main Puttanhalli, 7th Phase, JP Nagar, Bangalore",3.6/5,"Takeaway, Delivery",Yes,No,Bannerghatta Road,208
+435,Leon Grill,"+91 9972001409
++91 7349482017","568, 11th Main Road, 32nd Cross, 4th Block, Jayanagar, Bangalore",4.1/5,Quick Bites,Yes,No,Basavanagudi,414
+436,Gokul Veg,"+91 9980978388
+080 26627612","1st Floor, GR Plaza, DVG Road, Near Gandhi Bazaar circle, Basavanagudi, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,469
+437,Hyderabadi Bawarchi,"+91 7829488222
++91 7829588222","633/B555, Panduranga Nagar, Near Arekere Gate, Bannerghatta Road, Bangalore",3.2/5,Casual Dining,Yes,No,Bannerghatta Road,133
+438,The Curry Hut Plus,"080 49517195
++91 9632596058","48/4, Opposite Aikya Apartments, Chickakammanahalli, Hulimavu, Bannerghatta Road, Bangalore",3.4/5,Casual Dining,Yes,No,Bannerghatta Road,116
+439,Cream Stone,080 26592229,"312, 15th Cross, 5th Phase, JP Nagar, Bangalore",4.0/5,Dessert Parlor,No,No,Bannerghatta Road,319
+440,Three Dots & A Dash,080 49652186,"47/1, 4th Floor, 9th Cross, 1st Main, Miniforest, Phase 3, JP Nagar, Bangalore",4.3/5,"Bar, Casual Dining",No,Yes,Bannerghatta Road,1196
+441,Energy Addaa,080 49652857,"Rashtriya Vidyalaya Road, Basavanagudi, Bangalore",4.2/5,Quick Bites,Yes,No,Banashankari,64
+442,Spice Elephant,080 41714161,"2nd Floor, 80 Feet Road, Near Big Bazaar, 6th Block, Kathriguppe, 3rd Stage, Banashankari, Bangalore",4.1/5,Casual Dining,Yes,No,Banashankari,787
+443,Go Native,080 49653539,"64, 10th Main Road, 5th Block, Jayanagar, Bangalore",4.3/5,"Casual Dining, Cafe",Yes,Yes,Basavanagudi,1252
+444,Cakebuy,+91 8496934114,"1 B, Krishnamurthy Complex, Kodichikkanahalli Road, Bannerghatta Road, Bangalore",3.9/5,Dessert Parlor,Yes,No,Bannerghatta Road,70
+445,Magix's Parattha Roll,080 49652620,"96, 100 Feet Ring Road, Vysya Bank Colony, 1st Stage, BTM, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,184
+446,Black Mug Cafe,"+91 9845561119
++91 8095257151","1-2, Near Bhaganagar Bus Stop, Shankarnaga Road, Bhaganagar Layout, Gottigere, Bannerghatta Road, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,171
+447,The Pizzeria,"+91 9845154172
++91 9620344606","1112, 30th Main,Teachers Layout, Next to SBI Bank, 3rd Stage, Banashankari, Bangalore",2.8/5,Casual Dining,Yes,No,Banashankari,45
+448,Karma Kaapi,"+91 9380908955
++91 7483024632","81, 36th Cross Road, 5th Block, Jayanagar, Bangalore",4.4/5,Beverage Shop,Yes,No,Banashankari,181
+449,Chicken County Grand,"080 26533377
+080 26533378","13, Opposite Auchan Hyper Market, Bannerghatta Road, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,320
+450,Foodiction,+91 9916107070,"2/1, 7th Main, Dwarakangar, Hosakeregalli, Banashankari, Bangalore",2.8/5,Quick Bites,Yes,No,Banashankari,506
+451,The Onyx - The HHI Select Bengaluru,"+91 9742281239
++91 8884404894","The HHI Select Bengaluru Hotel, 686, 15th Cross, Ring Road, 2nd Phase, JP Nagar, Bangalore",3.3/5,Casual Dining,No,No,Bannerghatta Road,177
+452,Bengaluru Coffee House,+91 9740180090,"4001/4002, Annapoorneshwari Plaza, Near Seetha Circle, Hosakerehalli Cross, Banashankari, Bangalore",4.1/5,Quick Bites,Yes,No,Banashankari,201
+453,Seasons,"+91 7411898898
++91 7411798798","7, DSR Galleria, Opp Kalyani Motors, Bilekahalli Gate, Bannerghatta Road, Bangalore",3.8/5,Casual Dining,Yes,Yes,Bannerghatta Road,500
+454,Catch-up-ino,"+91 9972988038
++91 9900121238","241, 4th Floor, 100 Feet Ring Road, Opposite Kamakya Theatre, Banashankari, Bangalore",3.9/5,Cafe,Yes,No,Banashankari,133
+455,Wangs Kitchen,080 39253925,"Ground Floor, 148/1 and 148/2, Near HSBC, Bannerghatta Road, Bangalore",3.0/5,Casual Dining,Yes,No,Bannerghatta Road,114
+456,Upahara Bhavan,"+91 8746969469
+080 40972565","1, Gottigere Main Road, Bannerghatta Road, Bangalore",3.8/5,Quick Bites,Yes,No,Bannerghatta Road,55
+457,The Spice Saga,+91 7397773606,"642, 14th Main, Kumaraswamy Layout, Bangalore",3.7/5,Casual Dining,Yes,No,Banashankari,124
+458,Onesta,"080 48653961
+080 48655715","2469, 3rd Floor, 24th Cross, Opposite BDA Complex, 2nd Stage, Banashankari, Bangalore",4.6/5,"Casual Dining, Cafe",Yes,Yes,Banashankari,2556
+459,Coconut Grove,"080 48146882
++91 9945058354","296, 100 Feet Ring Road, 5th Phase, JP Nagar, Bangalore",3.4/5,"Casual Dining, Bar",No,No,Bannerghatta Road,97
+460,Brewsky,"+91 9880438170
++91 9880661701","55, 5th Floor, Goenka Chambers, 19th Main Road, Jeewan Griha Colony, Phase 2, JP Nagar, Bangalore",4.4/5,Microbrewery,Yes,Yes,Bannerghatta Road,4312
+461,Dande's Hyderabad Biryani,080 41454647,"5, 17th Main, 5th Cross, Behind Vijaya Enclave, Kodichickenahalli Road, Vijaya Bank Layout, Billekahalli, Bannerghatta Road, Bangalore",3.8/5,Casual Dining,Yes,No,Bannerghatta Road,207
+462,Mitraa Da Pizza,"+91 7977809237
++91 7752956789","1779, 14th Main, Kumaraswamy Layout, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,115
+463,Polar Bear,080 45128775,"79, 21st Main, 2nd Stage, Banashankari, Bangalore",3.9/5,Dessert Parlor,Yes,No,Banashankari,116
+464,Kanti Sweets,"080 22960634
+080 41744131","16, 7th Phase, RBI Layout, Puttenahalli, JP Nagar, Bangalore",4.0/5,Sweet Shop,Yes,No,Bannerghatta Road,182
+465,Slate Cafe,+91 8040923832,"5th Cross Road, Dollar Layout, 3rd Phase, JP Nagar, Bangalore",4.1/5,Cafe,Yes,No,Bannerghatta Road,46
+466,Aramane Donne Biriyani,"+91 7411877401
++91 7829588445","749, 7th Cross 14th Main, 2nd Stage, BTM, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,189
+467,Inchara,080 22449961,"22/1, Krishna Building, Puttenahalli Main Road, 6th Phase, JP Nagar, Bangalore",3.7/5,Casual Dining,No,No,Bannerghatta Road,535
+468,Penthouse Cafe,"+91 8884135549
++91 9449449316","1, 30th Main Road, 3rd Stage, Banashankari, Bangalore",4.0/5,Cafe,Yes,No,Basavanagudi,324
+469,Hotel Dwarka,"080 25905217
++91 9886757366","Near Katte Balaga, NR Colony, Basavanagudi, Bangalore",4.2/5,Quick Bites,No,No,Banashankari,253
+470,Idly Pidly,+91 7022529610,"G-2, Ground Floor, Next To Ample Mart, Begur Hulimavu Road, Akshay Nagar, Bannerghatta Road",3.2/5,Quick Bites,Yes,No,Bannerghatta Road,148
+471,Jalsa,"080 42297555
++91 9743772233","942, 21st Main Road, 2nd Stage, Banashankari, Bangalore",4.1/5,Casual Dining,Yes,Yes,Banashankari,775
+472,Toscano,"080 41558423
++91 7619320074","359/38,Next to Fabindia, 7th Cross, 1st Block, Jayanagar, Bangalore",4.3/5,Casual Dining,Yes,Yes,Banashankari,1129
+473,1980s Games Cafe,080 41677077,"63, 1st Floor, Kanakapura Road, Basavanagudi, Bangalore",3.4/5,Cafe,Yes,No,Banashankari,58
+474,Punjabi Swag,"+91 9902920892
++91 9902820893","950, 16th Main Road, 2nd Stage, BTM, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,669
+475,Cafe Cosy,080 49653354,"433/3/1, 4th Floor, 28th Cross, 10th Main, 4th Block, Jayanagar, Bangalore",4.1/5,Cafe,No,Yes,Basavanagudi,102
+476,Late Night,"+91 8884932323
+080 65652324","1st Stage, Kumaraswamy Layout, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,288
+477,Litti Twist,+91 8884270523,"No 43, 7th Main Road, NS Palaya, BTM 2nd Stage, BTM, Bangalore",4.2/5,Quick Bites,Yes,No,Bannerghatta Road,465
+478,Sankranthi Veg Restaurant,+91 8095275614,"986, 1st Block, Vijaya Bank Layout, 4th Stage, BTM, Bangalore",3.0/5,Casual Dining,Yes,No,Bannerghatta Road,102
+479,As On Fire,+91 9731111852,"75, 21st Main Road, Siddanna Layout, 2nd Stage, Banashankari, Bangalore",3.5/5,Food Truck,Yes,No,Banashankari,41
+480,Dreamcatcher,"+91 7090470823
++91 7996623818","128/54/10, Ground Floor, Opposite IIM - B, above A2B Dasarapalya, Bannerghatta Road, Bangalore",3.9/5,Cafe,Yes,No,Bannerghatta Road,49
+481,Berrylicious,+91 8884511222,"1231/35/2, 24th Main, Opposite Brigade Palm Springs, 7th Phase, JP Nagar, Bangalore",3.8/5,Dessert Parlor,Yes,No,Bannerghatta Road,89
+482,Watson's,"+91 7022078777
++91 7022072777","688, 2nd,Floor, 15th cross, 100ft Ring Road, Above Lathangi Ford Showroom, JP Nagar, Bangalore",4.0/5,"Pub, Bar",Yes,Yes,Bannerghatta Road,1010
+483,Malhar Maharashtrian Cuisine,+91 9880082094,"16, Survey Number 13, Omkar Nagar, Arekere, Bannerghatta Road, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,101
+484,The Chaat Shop,+91 9066510817,"11/4, Old Market Road, V V Puram, Basavanagudi, Bangalore",2.5/5,Quick Bites,Yes,No,Banashankari,35
+485,Smacznego,"+91 9945230807
++91 9743804471","2470, 21 Main Road, 25th Cross, Banashankari, Bangalore",4.2/5,Cafe,Yes,No,Banashankari,504
+486,Prasiddhi Food Corner,"+91 9448473299
++91 9900330039","25, 9th Cross, 34th Main, ITI Layout, 1st Phase, JP Nagar, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,170
+487,Mealer.in,"080 48542046
++91 9513771133","175-176, Dollars Colony, Phase 4, JP Nagar, Bangalore",4.0/5,Delivery,Yes,No,Bannerghatta Road,205
+488,Kesariya,080 49653516,"55, Goenka Chambers, Jeevan Griha Colony, 19th Main, Phase 2, JP Nagar, Bangalore",4.2/5,Casual Dining,No,Yes,Bannerghatta Road,1212
+489,Coastal Inn,"080 42117811
++91 9740218147","204, Panduranga Nagar, Opposite HSBC, Bannerghatta Road, Bangalore",3.4/5,Casual Dining,No,No,Bannerghatta Road,66
+490,Cafe Potpourri,"+91 8884553680
++91 7026274274","204, 4th Cross, KSRTC Layout, 2nd Phase, JP Nagar, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,132
+491,Sri Bhagya Grand,+91 9035066066,"1065/A, 5th Cross, 13th Main, Vijaya Bank Layout, Bannerghatta Road, Bangalore",3.4/5,Casual Dining,Yes,No,Bannerghatta Road,186
+492,Cafe Potpourri,"+91 8884553680
++91 7026274274","204, 4th Cross, KSRTC Layout, 2nd Phase, JP Nagar, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,131
+493,Imperial Restaurant,"+91 7338431313
+080 26741313","153, Satellite Bus Stand, Byataranyapura, Mysore Road, Bangalore",3.7/5,Casual Dining,Yes,No,Banashankari,264
+494,Coastal Mama,"080 41723334
+080 41733334","312, 2nd Floor, 15th Cross, 100 Feet Road, 5th Phase, JP Nagar, Bangalore",4.1/5,Casual Dining,No,Yes,Bannerghatta Road,466
+495,Dadi's Dum Biryani,"+91 7090377777
+080 43716050","7, 2nd Floor, Krish Towers, Arekere Signal, Bannerghatta Road, Bangalore",4.0/5,Casual Dining,Yes,Yes,Bannerghatta Road,739
+496,Mangalore Pearl,"+91 8880888315
++91 9019966667","197/F, 8th B Main, 27th Cross, 3rd Block, Jayanagar, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,242
+497,Upahara Darshini,080 26611355,"DVG Road, Gandhi Bazar, Basavanagudi, Bangalore",4.2/5,Quick Bites,No,No,Banashankari,254
+498,Machali Port,"+91 9113260882
++91 9886602028","30, First Floor, 2nd Main, Santrupthi Nagar, Opposite Axis Bank, Kothanur Dinne Main Road, 7th Phase, Bangalore, JP Nagar, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,34
+499,Roll Over,"+91 9901999868
++91 9986034959","10, Ground Floor, 24th Main, Ayodhya Nagar, 5th Phase, JP Nagar, Bangalore",4.1/5,Dessert Parlor,Yes,No,Bannerghatta Road,237
+500,Dev's Gugababa,"+91 9731495358
++91 9880417284","25, 6th main, Mico Layout, BTM layout 2nd Stage, BTM, Bangalore",3.5/5,Quick Bites,Yes,No,Bannerghatta Road,177
+501,Ambara Gardenia,"+91 8105266066
++91 9611911066","1065/A, 5th Cross, 13th Main, 2nd Floor, Vijaya Bank Layout, Bannerghatta Road, Bangalore",3.8/5,Casual Dining,Yes,Yes,Bannerghatta Road,257
+502,San Churro Cafe,+91 9663487993,"1112, Next to KIMS Medical College, 17th Cross, 2nd Stage, Banashankari, Bangalore",3.8/5,"Cafe, Casual Dining",Yes,No,Banashankari,918
+503,Rolls On Wheels,"+91 9071734101
++91 9071496800","Shop 33 & 30, 21st Main, Near BDA Complex, 2nd Stage, Banashankari, Bangalore",3.6/5,Quick Bites,No,No,Banashankari,299
+504,Srinathji's Cafe,"080 26600704
++91 9342593424","112, Bull Temple Road,next to more Basavanagudi, Bangalore",3.8/5,"Casual Dining, Cafe",No,No,Banashankari,148
+505,Nandhana Palace,080 49653162,"8 A, ANR Onyx, Near Shoppers Stop, Bannerghatta Road, Bangalore",4.1/5,"Casual Dining, Bar",No,Yes,Bannerghatta Road,1000
+506,Deejas Kitchen,+91 7259298695,"309, Sai Nandana Presidency, 5th Main, 11th Cross, Near Rajashri Grandhim Hospitals, Vijaya Bank Layout, Bilekahalli, Bannerghatta Road, Bangalore",3.9/5,"Takeaway, Delivery",Yes,No,Bannerghatta Road,73
+507,Roll Over,"+91 9901999868
++91 9986034959","10, Ground Floor, 24th Main, Ayodhya Nagar, 5th Phase, JP Nagar, Bangalore",4.1/5,Dessert Parlor,Yes,No,Bannerghatta Road,237
+508,The Biriyani Pedia,+91 9809202588,"3rd Cross Road, Venkateshwara Layout, Suddagunte Palya, BTM, Bangalore",3.9/5,Quick Bites,Yes,No,Basavanagudi,55
+509,SLV Swadishta,+91 9900166783,"76, 21st Main Road, 2nd Stage, Banashankari, Bangalore",3.8/5,Quick Bites,No,No,Banashankari,189
+510,Oye Amritsar,"080 49577007
++91 9945524705","72, 2nd Floor, Next to Max & Crossword, 3rd Phase, Inner Ring Road, JP Nagar, Bangalore",3.8/5,Casual Dining,Yes,Yes,Bannerghatta Road,756
+511,Central Jail Restaurant,"+91 7337886666
++91 8880004992","433/30/1, 28th Cross, 10th Main, Opposite BDA Complex, 4th Block, Jayanagar, Bangalore",3.8/5,Casual Dining,Yes,No,Banashankari,412
+512,Pancuzzi,+91 9742737794,"24th Main, 2nd Cross, 2nd Phase, JP Nagar, Bangalore",4.2/5,Cafe,Yes,No,Bannerghatta Road,169
+513,Capsicum Family Restaurant,080 49652641,"774, 3rd Floor, 16th Main, 7th Cross, 2nd Stage, BTM, Bangalore",3.8/5,Casual Dining,Yes,No,Bannerghatta Road,254
+514,Donne Biriyani House,"+91 8197743537
+080 26690642","4009, 80 Feet Road, 4th Phase, Banashankari, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,441
+515,Funky Punjab,+91 8884449474,"746, 7th cross, 13th Main, BTM, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,124
+516,Caffe Pascucci,080 41200431,"690/8, 14th Main, 15th Cross, 2nd Phase, JP Nagar, Bangalore",4.0/5,Casual Dining,Yes,Yes,Bannerghatta Road,790
+517,Darbar,+91 8861271465,"1, Near BDA Complex, 24th Main, 2nd Stage, Banashankari, Bangalore",3.0/5,Bar,No,No,Banashankari,98
+518,Namana Garden,080 41625637,"910, 5th Cross Road, Vijaya Bank Layout, Bilekahalli,BTM, Bangalore",2.6/5,Quick Bites,No,No,Bannerghatta Road,75
+519,Chumma Delicious,"+91 9341262402
++91 9108648373","412, 1st Cross, Vidyapeeta Road, 3rd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,Yes,No,Banashankari,237
+520,Dev Sagar - Food Street,"+91 9886204745
+0161 26624745","11/2, Old Market, V V Puram, Basavanagudi, Bangalore",4.1/5,Quick Bites,Yes,No,Banashankari,233
+521,Swad Restaurant,"080 41722856
++91 9019572354","House 86, Ground Floor 3rd cross 1st Main N.S. Palya, Behind Shoppers Stop, BTM Layout, BTM 2nd stage Bangalore",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,115
+522,Srinathji's Cafe,"080 26600704
++91 9342593424","112, Bull Temple Road,next to more Basavanagudi, Bangalore",3.8/5,"Casual Dining, Cafe",No,No,Banashankari,148
+523,Wahab,+91 9845088001,"28/29, 9th Main Road, 3rd Block, Jayanagar, Bangalore",3.7/5,Quick Bites,Yes,No,Banashankari,97
+524,Swadesh Tadka,"080 42151252
++91 9886681252","101, Manjunatha Complex, Near BDA Complex, 22nd Main, 2nd Stage, Banashankari, Bangalore",3.5/5,Casual Dining,Yes,No,Banashankari,179
+525,Flavorsome Bakes,"+91 9739132229
++91 9900766188","Arjun Aura Apartment, Vijaya Bank Layout, Bannerghatta Road, Bangalore",4.0/5,"Takeaway, Delivery",No,No,Bannerghatta Road,93
+526,Kundana,080 49652729,"176, 1st Floor, Above Vodafone Store, Opposite Brand Factory, Bannerghatta Road, Bangalore",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,110
+527,Canton,"080 41410069
++91 9611320069","28-29, 3rd Block, 9th Main Road, Jayanagar, Bangalore",3.6/5,Casual Dining,Yes,No,Banashankari,195
+528,Cafe Arabica,"080 64442444
++91 8050042444","4, 1st Cross, Christ School Road, Bhavani Layout, Bannerghatta Road, Bangalore",3.8/5,"Cafe, Bakery",No,No,Bannerghatta Road,69
+529,Vasudev Adiga's,"+91 8494911156
+080 22940208","204, Opposite HSBC Bank, 11th KM Stone, Bilekahalli, BG Road, Bannerghatta Road, Bangalore",2.3/5,Casual Dining,No,No,Bannerghatta Road,291
+530,Spice Up,"080 26582546
+080 32931154","228/A, 9th Main, K.S.R.T.C Layout, 2nd Phase, JP Nagar, Bangalore",3.8/5,Casual Dining,Yes,No,Bannerghatta Road,146
+531,Nite Out,"080 48542046
++91 9513771133","175-176, Dollars Colony, Phase 4, JP Nagar, Bangalore",3.9/5,Delivery,Yes,No,Bannerghatta Road,161
+532,TGI Fridays,"080 67080290
+080 67080291","4th Floor, Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",3.9/5,Lounge,Yes,Yes,Bannerghatta Road,1337
+533,Ayodhya Upachar,"080 26694999
+00 09901269901","199/1, Ajanaya Bhavana, 100 Feet Ring Road, Kathriguppe, Banashankari, Bangalore",4.3/5,Quick Bites,Yes,No,Banashankari,734
+534,Flow - Terrace Bar & Grill,+91 9886095845,"Eden Park7, 8 Doresani Palya, Near Kalyani Magnum, Opposite Oracle, 5th Phase, JP Nagar, Bangalore",3.8/5,"Lounge, Bar",No,No,Bannerghatta Road,82
+535,San Churro Cafe,+91 9663487993,"1112, Next to KIMS Medical College, 17th Cross, 2nd Stage, Banashankari, Bangalore",3.8/5,"Cafe, Casual Dining",Yes,No,Basavanagudi,918
+536,The Biryani Cafe,+91 7010846043,"476, 2nd Floor, 9th Cross, Avalahalli BDA Park, BSK 3rd Stage, Banashankari, Bangalore",4.1/5,Quick Bites,No,No,Banashankari,520
+537,Szechuan Dragon,"00 919663567711
++91 9916326323","8, 2nd Floor, 1st Main, Arush Trapeze, Mount Joy Road, Behind BMS College of Engineering, Hanumanthnagar, Banashankari, Bangalore",4.2/5,Casual Dining,Yes,No,Banashankari,1647
+538,Faasos,+91 7700020020,"Shop 161,161A,166, First Floor, Vinayaka Nagar, Bannerghatta Road, Bangalore",3.9/5,Delivery,Yes,No,Bannerghatta Road,251
+539,New Prashanth Hotel,"080 26530150
++91 8861190190","2nd Floor, Garla Garnet, 9th Main, 4th Block, Jayanagar, Bangalore",3.6/5,Casual Dining,Yes,No,Banashankari,143
+540,The Chervil,"+91 9742891444
++91 9742890444","11-12/49, First Floor, 14th Main, Puttenahalli Road, Kothnur Main Road, Beside Brigade Millenium, 7th Stage, JP Nagar, Bangalore",4.2/5,Casual Dining,Yes,No,Bannerghatta Road,230
+541,Hunger Camp,080 45128824,"77B, 2nd Cross, 3rd Main, 4th Phase, JP Nagar, Bangalore",4.6/5,Casual Dining,No,Yes,Bannerghatta Road,311
+542,Waffle Walle,+91 8105902392,"Royal Meenakshi Mall, Bannerghatta Road, Bangalore",4.3/5,Kiosk,Yes,No,Bannerghatta Road,676
+543,Dwaraka Grand,+91 9448214873,Near dayananda sagar college kumarswamy layout,3.9/5,Casual Dining,Yes,No,Banashankari,128
+544,Petoo,+91 9108829009,"31, 7th Phase, JP Nagar, Bangalore",3.7/5,Casual Dining,No,No,Bannerghatta Road,48
+545,Ice Thunder,+91 9845366565,"DV Gundappa Road, Gandhi Bazar Circle, Binny Talkies, Basavanagudi, Bangalore",3.8/5,Quick Bites,No,No,Banashankari,124
+546,A2B - Adyar Ananda Bhavan,18001036363,"154, Opposite HSBC Bank, Bilekahalli, Bannerghatta Road, Bangalore",2.7/5,Casual Dining,Yes,No,Bannerghatta Road,425
+547,Vaho Kafe & Pressery,"+91 9845687999
+080 41494199","227,Sitaram Complex, Bilekahalli,opp to IIM-B, Bannerghatta Road, Bangalore",3.9/5,Cafe,No,No,Bannerghatta Road,125
+548,Ovenstory Pizza,+91 7738383000,"101, Ground Floor, Manjunatha Complex, 22nd Main Road, 2nd Stage, Banashankari, Bangalore",3.9/5,Delivery,Yes,No,Banashankari,172
+549,Polar Bear,080 49652725,"96, Opposite Jain Collage, Basavanagudi, Bangalore",3.8/5,Dessert Parlor,Yes,No,Banashankari,71
+550,Andhra Ruchulu,"+91 8970409660
++91 9900262033","1319, 100 Feet Road, 2nd Phase, JP Nagar, Bangalore",4.2/5,Casual Dining,Yes,Yes,Bannerghatta Road,1428
+551,Vietnamese Kitchen,"080 26697884
+080 26697883","Pavanashree Nilayam, 7 Block, Banagirinagara, Banashankari, Bangalore",3.6/5,Casual Dining,Yes,No,Banashankari,105
+552,Bharjari Oota,080 26629734,"18, Gandhi Bazar Main Road, Roti Ghar, Basavanagudi, Bangalore",3.9/5,Casual Dining,No,No,Banashankari,153
+553,Deccan Spice,"+91 9902528053
+080 48651758","4, Sai Arcade,1st Floor, Wilson Garden Society, Kothnur Main Road, 7th Phase, JP Nagar, Bangalore",3.5/5,Casual Dining,No,No,Bannerghatta Road,65
+554,Pizza Stop,"+91 9663504448
++91 9880160086","Agastya Suites, 116, 8th Main Road, Next to M.K.Ahmed Retail, 4th Phase, JP Nagar, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,385
+555,Chung Wah,"080 41553388
++91 8041604095","14, 2nd Floor, Panchanjanya Tower, Phase III, 3rd Stage, 100 Feet Road, Banashankari, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,519
+556,Smacznego,"+91 9945230807
++91 9743804471","2470, 21 Main Road, 25th Cross, Banashankari, Bangalore",4.2/5,Cafe,Yes,No,Basavanagudi,504
+557,Sri Lakshmi Dhaba,"+91 8970548240
++91 9739369901","23, 7th Cross, 2nd Main, NS Palya Main Road, 2nd Stage, BTM, Bangalore",2.9/5,Quick Bites,Yes,No,Bannerghatta Road,255
+558,Fattoush,"080 41425553
++91 7337830044","128/54/10, First floor, Opposite IIM - B, Dasarapalya, Bannerghatta Road, Bangalore",4.2/5,Casual Dining,Yes,Yes,Bannerghatta Road,1964
+559,Vinaya Coffee Moments,"+91 9538699211
+080 49566825","Someshwara Bhavan, RBI Layout, 7th Phase, Kothnur Main Road, JP Nagar, Bangalore",3.8/5,Cafe,Yes,No,Bannerghatta Road,46
+560,Hakuna Matata,"+91 9741133866
++91 9880548165","1231/35/2, 24th Main, 7th Phase, Opposite Brigade Palm Springs, JP Nagar, Bangalore",4.5/5,"Casual Dining, Bar",No,No,Bannerghatta Road,2781
+561,Bangalore Agarwal Bhavan,"+91 9880988500
++91 9342943356","36/1, 27th Cross, 4th Block, Jayanagar, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,134
+562,The Vintage Cafe,"+91 9880016665
++91 8217311687","146, 50 ft Road, 3rd Phase, 3rd Stage, Near Katriguppe Water Tank Circle, Banashankari, Bangalore",3.0/5,Cafe,Yes,No,Banashankari,62
+563,Shree Venkateshwara North Karnataka Hotel,+91 8971951073,"31, Police Station Road, Near Gandhi Bazaar, Basavanagudi, Bangalore",4.0/5,Quick Bites,No,No,Banashankari,64
+564,Corner House Ice Cream,"080 26713965
++91 9845444155","808/6-1, 24th A Cross, K.R Road, 2nd Stage, Banashankari, Bangalore",4.3/5,Dessert Parlor,No,No,Banashankari,345
+565,Five Star Chicken,+91 8884121777,"18th Cross road, 5th Phase, JP Nagar, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,62
+566,Mudpipe Cafe,+91 9448056565,"44-45, Terrace Floor, 24th Main Road, 7th phase, JP Nagar, Bangalore",3.9/5,Cafe,Yes,Yes,Bannerghatta Road,727
+567,1980s Games Cafe,080 41677077,"63, 1st Floor, Kanakapura Road, Basavanagudi, Bangalore",3.4/5,Cafe,Yes,No,Basavanagudi,58
+568,Crafted Plate,"080 43023198
++91 8050088287","1304, 1st Floor, 9th Cross, 20th Main, 2nd Phase, JP Nagar, Bangalore",4.2/5,"Casual Dining, Cafe",Yes,Yes,Bannerghatta Road,237
+569,Guru Paradise,"+91 7619306668
++91 7619316668","Opposite AECS Magnolia School, Bannerghatta Road, Bangalore",2.9/5,Casual Dining,No,Yes,Bannerghatta Road,200
+570,Oye Amritsar,"080 49577007
++91 9945524705","72, 2nd Floor, Next to Max & Crossword, 3rd Phase, Inner Ring Road, JP Nagar, Bangalore",3.8/5,Casual Dining,Yes,Yes,Bannerghatta Road,756
+571,Jalsa,"080 42297555
++91 9743772233","942, 21st Main Road, 2nd Stage, Banashankari, Bangalore",4.1/5,Casual Dining,Yes,Yes,Banashankari,775
+572,Chung Wah,"080 41215557
+080 41215333","3, Arakere Gate, Bannerghatta Road, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,532
+573,Galito's,+91 8067922374,"Vega City Mall, 3rd Floor, Bannerghatta Road, Bangalore",4.6/5,Casual Dining,Yes,No,Bannerghatta Road,404
+574,Udupi Sri Krishna Bhavan,080 26676566,"115/116, 1st Floor, Gandhibazaar, Basavanagudi, Bangalore",4.1/5,Quick Bites,No,No,Banashankari,238
+575,Sri Laxmi Venkateshwara Coffee Bar,+91 8971691805,"187, 16th Main, 24th Cross, 2nd Stage, Banashankari, Bangalore",4.4/5,Quick Bites,No,No,Banashankari,343
+576,Empire Restaurant,080 49653266,"4, Opposite NMKRV College, 21st C Cross Road, 3rd Block, Jayanagar, Bangalore",4.4/5,Casual Dining,Yes,No,Basavanagudi,4884
+577,#refuel,+91 8971227222,"7, Ground Floor, RR Commercial Complex, Akshay Nagar, Bannerghatta Road, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,37
+578,Karnataka Bhel House,+91 9845100870,"6, 2nd Main, 3rd Cross, Chamrajpet, Basavanagudi, Bangalore",4.1/5,Quick Bites,Yes,No,Banashankari,449
+579,Polar Bear,080 49653453,"71, 1st Main Road, Panduranga Nagar, Doresanipalya Ward, Bannerghatta Road, Bangalore",3.9/5,Dessert Parlor,Yes,No,Bannerghatta Road,188
+580,Sea Spice by 7 Star,080 49653393,"1890, Shetty Gardenia, 9th Main, Kaverinagar, 2nd Stage, Banashankari, Bangalore",4.0/5,Casual Dining,Yes,Yes,Banashankari,349
+581,Apsara Ice Cream,04 141717410,"1065 B, 5th Cross, Vijaya Bank Layout, Bilekahalli, Bannerghatta Road, Bangalore",4.0/5,Dessert Parlor,No,No,Bannerghatta Road,65
+582,Magic Meals,"+91 9986281317
++91 8970050267","50/51, 8th F Main, 3rd Block, Jayanagar, Bangalore",3.7/5,"Quick Bites, Dessert Parlor",Yes,No,Banashankari,47
+583,Marwa Restaurant,080 49653014,"21, Ground Floor, B.H.C.S.L Layout, Stage 2, Bannerghatta Road, Bangalore",3.5/5,Casual Dining,Yes,Yes,Bannerghatta Road,551
+584,FreshMenu,+91 9019245000,"23/24, Ground Floor, 2nd Cross, Arekere Main Road, Bannerghatta Road, Bangalore",3.3/5,Delivery,Yes,No,Bannerghatta Road,628
+585,Apna Punjab,+91 7411793215,"26-27, MICO Layout, 6th Main, 2nd Stage, BTM, Bangalore",3.6/5,Quick Bites,Yes,No,Bannerghatta Road,474
+586,Sattvam,"080 26595000
++91 9483275526","281, 2nd Floor, 15th Cross, 5th Phase, JP Nagar, Bangalore",4.3/5,Casual Dining,No,No,Bannerghatta Road,353
+587,The Bong Palate,"+91 6363053927
++91 9886076868","32, 16th Main Road, 1st Cross, Mahadeshwara Nagar, BTM 2nd Stage, Bangalore",3.8/5,Quick Bites,Yes,No,Bannerghatta Road,58
+588,Punjabi Nawabi,"+91 9916713131
++91 9916813131","Shop 9, 1st Floor, SBI Building, New DLF New Town, Opposite Ample Mart, Bannerghatta Road, Bangalore",3.8/5,Quick Bites,Yes,No,Bannerghatta Road,312
+589,Food Springs,080 42010153,"559, 32nd Cross, 10th A Main, 4th Block, Jayanagar, Bangalore",4.0/5,Quick Bites,Yes,No,Banashankari,232
+590,Melt - Eden Park,+91 9606487102,"Eden Park7, 8 Doresani Palya, Near Kalyani Magnum, Opposite Oracle, 5th Phase, JP Nagar, Bangalore",4.0/5,Casual Dining,Yes,Yes,Bannerghatta Road,347
+591,California Burrito,080 39515101,"14/1/148/2A, Ground Floor, Near HSBC, Bannerghatta Road, Bangalore",4.0/5,Quick Bites,No,No,Bannerghatta Road,177
+592,White Horse,080 26541328,"724, 24th Main, 6th Phase, JP Nagar, Bangalore",3.8/5,Quick Bites,No,No,Bannerghatta Road,177
+593,Sandwichwallas,+91 8277204538,"28, Near BMS Women's College, E.A.T Street, Basavanagudi, Bangalore",4.0/5,Quick Bites,Yes,No,Banashankari,132
+594,Janahaar,+91 9740290589,"162 , Kathreguppe Cross Road, 3rd Stage, Banashankari, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,70
+595,Cuppa,080 40939471,"46/A, 1st Main, 3rd Phase, JP Nagar, Bangalore",3.4/5,Cafe,No,No,Bannerghatta Road,48
+596,Kidambi's Kitchen,"080 42112211
++91 9880412211","2465, 3rd Floor, Opposite BDA Complex, 24th Cross, Banashankari, Bangalore",3.5/5,Quick Bites,No,No,Banashankari,52
+597,Bangalir Rannaghar,+91 7337618151,"DLF City Road, Near Sai Baba Temple, Arekere, Bannerghatta Road, Bangalore",2.9/5,Quick Bites,No,No,Bannerghatta Road,58
+598,Sagar Deluxe,"080 32963232
++91 9620284767","1761, Near Swathi Nursing Home, 14th Main Road, 1st Stage, Kumaraswamy Layout, Bangalore",3.2/5,Quick Bites,Yes,No,Banashankari,167
+599,The Coastal Crew by Fujian on 24th,"080 26499444
++91 8951516623","25/1, Near Sampoorna, 24th Main, 5th Phase, JP Nagar, Bangalore",4.2/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,1028
+600,Subz,080 49652607,"Cosmopolitan Club, Ground Floor, 22nd Cross, 3rd Block, Jayanagar, Bengalore",4.2/5,Casual Dining,Yes,Yes,Banashankari,2022
+601,Bhojohori Manna,"+91 9916972666
+080 26593666","42, Opposite RV Dental College, 7th Cross, JP Nagar, Bangalore",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,662
+602,Sri Bhagya Grand,+91 9035066066,"1065/A, 5th Cross, 13th Main, Vijaya Bank Layout, Bannerghatta Road, Bangalore",3.4/5,Casual Dining,Yes,No,Bannerghatta Road,186
+603,McDonald's,"080 66000666
+080 42005285","2466, Bhaskar Grand Tower, 24th Cross, Opposite BDA Complex, Banashankari, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,286
+604,Udupi Grand,"+91 9242115999
++91 9591322733","49, South End Road, Nagasandra Circle, Basavanagudi, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,74
+605,Sankranthi Veg Restaurant,+91 8095275614,"986, 1st Block, Vijaya Bank Layout, 4th Stage, BTM, Bangalore",3.0/5,Casual Dining,Yes,No,Bannerghatta Road,102
+606,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,"080 26724489
++91 7406048982","12,29 Near PES University Back Gate, D'Souza Nagar, Hosakerehalli, 3rd Stage, Banashankari, Bangalore",4.1/5,Cafe,Yes,No,Banashankari,402
+607,Zhang's - Chinese Restaurant,"080 26595988
+080 26596420","1743, Raghavendra Plaza , 2nd Phase, (Near Diwakars Hospital), JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,No,Bannerghatta Road,587
+608,Kalmane Koffees,+91 9972900494,"1st Floor, Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",3.9/5,Cafe,No,No,Bannerghatta Road,78
+609,Dosa Bazaar,"+91 8971331138
++91 9177782676","Ramaiah Garden, Beside Shoba Tulit Apartment, JP Nagar, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,112
+610,Cravings,+91 9986624240,"Shop 11& 12, First Floor, 3618/1, Dodda Kammanahalli, Main Road, Besides Campus Student Communities Building, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,139
+611,Rasoi,"+91 9738019114
+080 66816116","86, Shakthi Arcade, 21st Main, 2nd Stage, Near KIMS College and BDA Complex, Banashankari, Bangalore",3.3/5,Quick Bites,Yes,No,Banashankari,128
+612,Mojo Pizza - 2X Toppings,022 33252828,"287, 1st Floor, 7th Block, 100 Feet Ring Road, Phase 4, Banashankari, Bangalore",4.2/5,Delivery,Yes,No,Banashankari,179
+613,Zaika Take Away,"+91 7848824267
++91 7847024267","85/3, Chamundeshwari Layout, Arekere , Near Paramount Pilatus, Bannerghatta Road, Bangalore",2.4/5,Casual Dining,No,No,Bannerghatta Road,96
+614,Panchami Garden,080 41311414,"56/1, Next to Airtel Office, Stage 1, Bannerghatta Road, Bangalore",3.5/5,Quick Bites,No,No,Bannerghatta Road,56
+615,Ragoo's,"080 26762888
+080 26763888","16, 5th B Main, KR Road, Jayanagar, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,233
+616,Faasos,+91 7700020020,"69/1, Gowreesha Complex, Opposite Ananda Valmart Apartment, Doddakammanahalli, Bannerghatta Road, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,114
+617,Burger King,080 33558000,"Royal Meenakshi Mall, Third Floor, Unit T001B & T007, Opposite Meenakshi Temple, Hulimavu, Bannerghatta Road, Bangalore",3.8/5,Quick Bites,Yes,No,Bannerghatta Road,472
+618,Sri Venkateshwara Sweet Meat Stall,080 26677131,"115/116, Gandhi Bazar Main Road, Basavanagudi, Bangalore",4.0/5,"Sweet Shop, Quick Bites",No,No,Banashankari,98
+619,Alchemy Coffee Roasters,+91 8762473937,"51 Ground Floor, 5th Main Road, 36th Cross Road, 5th Block, Jayanagar, Bangalore",4.2/5,Cafe,No,No,Basavanagudi,704
+620,Mint and Mustard,"+91 8296898737
++91 7003941601","172, Ground Floor, Near Jain College, VV Puram, Basavanagudi, Bangalore",4.0/5,Casual Dining,Yes,No,Banashankari,232
+621,Sankranthi Veg Restaurant,+91 8095275614,"986, 1st Block, Vijaya Bank Layout, 4th Stage, BTM, Bangalore",3.0/5,Casual Dining,Yes,No,Bannerghatta Road,102
+622,Crumb Together,080 49652428,"45, 100 Feet Road, Opposite Mandovi Motors, 4th Phase, JP Nagar, Bangalore",4.1/5,"Casual Dining, Bar",Yes,Yes,Bannerghatta Road,585
+623,Grills & Rolls,080 26593949,"17/1, SNVR Complex, Opposite Royal School, 24th Main, 18th Cross, JP Nagar, Bangalore",2.5/5,Quick Bites,Yes,No,Bannerghatta Road,321
+624,Corner House Ice Cream,080 26540925,"1225, 26th Main, 9th Block, Jayanagar, Bangalore",4.4/5,Dessert Parlor,Yes,No,Bannerghatta Road,819
+625,Floured-Baked With Love,"+91 9845552266
++91 9845552288","415, 1st C Cross, Banashankari 3rd Stage, 5th Block, Bangalore, Banashankari, Bangalore",3.8 /5,"Takeaway, Delivery",No,No,Banashankari,45
+626,Kedia's Fun Food,+91 8867769557,"6th C Main, 4th Block, Jayanagar, Bangalore",4.3/5,Quick Bites,Yes,No,Basavanagudi,630
+627,Domino's Pizza,"080 26710070
+18602100000","645, 1st Floor, 24th Cross, 24th Main, 2nd Stage, Banashankari, Bangalore",3.9/5,Quick Bites,Yes,No,Banashankari,540
+628,Garma Garam,"+91 9986834292
++91 8660426565","MICO Layout, Arakere, Opposite Vijaya Bank, Bannerghatta Road, Bangalore",3.2/5,Quick Bites,Yes,No,Bannerghatta Road,144
+629,Sree Krishna Kafe,+91 8792556140,"5, SSAR Towers, Opposite Royal School, 24th Main Road, 5th Phase, JP Nagar, Bangalore",3.9/5,Quick Bites,No,No,Bannerghatta Road,115
+630,San Churro Cafe,+91 9663487993,"1112, Next to KIMS Medical College, 17th Cross, 2nd Stage, Banashankari, Bangalore",3.8/5,"Cafe, Casual Dining",Yes,No,Banashankari,918
+631,Redberrys,+91 9148421256,"30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",4.0/5,Cafe,Yes,No,Banashankari,219
+632,Kabab Treat,080 39257409,"Arekere Village, 80 Feet Road, Opposite Paramount Apartments, Bannerghatta Road, Bangalore",2.8/5,Casual Dining,Yes,No,Bannerghatta Road,334
+633,Mahesh Friends Food Center,+91 9731081364,"14/6, 9th Main Road, Opposite Water Tank, 100 Feet Road, 2nd Stage, BTM, Bangalore",2.9/5,Quick Bites,Yes,No,Bannerghatta Road,126
+634,Bohra Bohra CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,"+91 9880101051
++91 9742661909","Shop 1, 129, 24th Main, 5th Phase, JP Nagar, Bangalore",3.6/5,Quick Bites,Yes,No,Bannerghatta Road,43
+635,Just Shawarma,+91 7676764422,"Survey # 81/4A, Cave Temple Road, Opposite Meenakshi Mall, Bannerghatta Road, Bangalore",3.6/5,Quick Bites,Yes,No,Bannerghatta Road,137
+636,Kadala Tarangaa,"+91 9743491480
++91 9483528275","27, 27th Cross, 1st Floor, Kadamba Complex, 2nd Stage, Banashankari, Bangalore",3.6/5,Casual Dining,Yes,No,Banashankari,129
+637,Cafe Shuffle,+91 9742166777,"941, 3rd FLOOR, 21st Main, 22nd Cross, Banashankari 2nd stage, Opposite to BDA complex, Banashankari",4.2/5,Cafe,Yes,Yes,Banashankari,150
+638,Bread Crumbs Bakery,080 49652927,"989, Ambika Corner, DC Road, Off Bannerghatta Road, Bilekahalli, Bannerghatta Road, Bangalore",4.0/5,Bakery,No,No,Bannerghatta Road,164
+639,Gorbandh,080 49652562,"725,16th Main, 2nd Stage, BTM, Bangalore",4.1/5,Quick Bites,Yes,No,Bannerghatta Road,83
+640,Kalingas,080 42038180,"399, 16th Main, N.S Palya, BTM, Bangalore",3.9/5,Quick Bites,Yes,No,Bannerghatta Road,173
+641,Machali Port,"+91 9113260882
++91 9886602028","30, First Floor, 2nd Main, Santrupthi Nagar, Opposite Axis Bank, Kothanur Dinne Main Road, 7th Phase, Bangalore, JP Nagar, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,34
+642,Wamama,"+91 8042111599
++91 8971818009","2466, Bhaskar Grand Tower, 24th Cross, Opposite BDA Complex, Banashankari, Bangalore",4.2/5,Casual Dining,Yes,Yes,Banashankari,354
+643,Beijing Bites,"080 28606888
+080 28606886","179, 1st Floor, Jawarlalnehru Road, BEML Layout, Rajarajeshwari Nagar, Bangalore",3.7/5,Casual Dining,Yes,No,Banashankari,679
+644,The Blue Wagon - Kitchen,"+91 8105485007
++91 8095904280","615/1, Ground Floor, Janardhan Mansion, 10th C Main, 32nd D Cross, 4th Block, Jayanagar, Bangalore",4.6/5,Cafe,Yes,No,Basavanagudi,228
+645,Recipe,"+91 8043755256
++91 9886073774","1621, 1st Floor, 50 Feet Main Road, Kumaraswamy Layout, Bangalore",4.0/5,Casual Dining,Yes,No,Banashankari,804
+646,San Churro Cafe,+91 9663487993,"1112, Next to KIMS Medical College, 17th Cross, 2nd Stage, Banashankari, Bangalore",3.8/5,"Cafe, Casual Dining",Yes,No,Banashankari,918
+647,Gorbandh,080 49652562,"725,16th Main, 2nd Stage, BTM, Bangalore",4.1/5,Quick Bites,Yes,No,Bannerghatta Road,83
+648,Bakers Town,+91 8884550298,"269, JHBCS Layout, 2nd Main Road, Teacher's Colony, Kumaraswamy Layout, Bangalore",3.8/5,Cafe,Yes,No,Banashankari,77
+649,People Tree Cafe,+91 9886086452,"692, 12th Cross Road, Near Nethradhama, Jayanagar, Bangalore",3.7/5,Cafe,No,No,Basavanagudi,168
+650,Biggies Burger 'n' More,"+91 9740962288
+080 41145111","114, Kothanur Main Road, Santrupthi Nagar, 7th Phase, JP Nagar, Bangalore",4.1/5,"Quick Bites, Cafe",Yes,No,Bannerghatta Road,203
+651,Redberrys,+91 9148421256,"30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",4.0/5,Cafe,Yes,No,Banashankari,219
+652,Skytouch Le Cafe,"080 40932483
++91 9740848803","724, 3rd Floor, RBI Layout, Rini Pearl, Opposite E.K. Retail, 7th Phase, JP Nagar, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,127
+653,Dream a Dozen,+91 8861739269,"103/25, 2nd Main Road, Puttenhalli, 7th Phase, JP Nagar, Bangalore",4.3/5,Delivery,Yes,No,Bannerghatta Road,133
+654,World of Waffles,"080 42283009
++91 7829130009","4, South End B Road, 9th Block, JP Nagar, Bangalore",3.9/5,Dessert Parlor,Yes,No,Bannerghatta Road,178
+655,Dream a Dozen,+91 8861739269,"103/25, 2nd Main Road, Puttenhalli, 7th Phase, JP Nagar, Bangalore",4.3/5,Delivery,Yes,No,Bannerghatta Road,132
+656,Srinathji's Cafe,"080 26600704
++91 9342593424","112, Bull Temple Road,next to more Basavanagudi, Bangalore",3.8/5,"Casual Dining, Cafe",No,No,Banashankari,148
+657,Hyderabad Biryaani House,"+91 9845699901
++91 9986438789","Arakere Gate, Next to HSBC, Opposite Reliance Mart, Bannerghatta Road, Bangalore",3.6/5,Casual Dining,Yes,No,Bannerghatta Road,794
+658,@Italy,"+91 7760579999
++91 7026557799","1766, 14th Main, 1st Stage, Kumaraswamy Layout, Bangalore",4.1/5,Casual Dining,Yes,No,Banashankari,305
+659,Paradise,"+91 9513477574
++91 9901842605","915, 24th Main Road, 2nd Phase, Mayura Circle, JP Nagar, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,1974
+660,Sri Guru Kottureshwara Davangere Benne Dosa,"+91 9448305384
++91 9060079480","49/1, Subbaraoshetty Road, Netkallappa Circle, Basavanagudi, Bangalore",4.1/5,Quick Bites,Yes,No,Banashankari,558
+661,Oogway Express,"080 48538853
++91 9663634567","18, 24th Main Road, Near Sobha Tulip Apartment, 5th Phase, JP Nagar, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,347
+662,Stoned Monkey,"+91 9972710694
++91 9972710894","415, 9th Main, 24th Cross, 2nd Stage, Banashankari, Bangalore",4.3/5,Dessert Parlor,Yes,No,Banashankari,860
+663,Behrouz Biryani,091 7700050050,"69/1, Gowreesha Complex, Opposite Ananda Valmart Apartment, Doddakammanahalli, Bannerghatta Road, Bangalore",4.0/5,Delivery,Yes,No,Bannerghatta Road,138
+664,Brundhavana Food Point,+91 9743518909,"1795, Near Police Station, 13th Main, Kumaraswamy Layout, Bangalore",4.0/5,Quick Bites,Yes,No,Banashankari,191
+665,Yum In My Tum,+91 9108084789,"766/A, 16th Main Road, BTM 2nd Stage, Bangalore",4.1/5,Quick Bites,Yes,No,Bannerghatta Road,92
+666,Swadista Aahar,"+91 9844006825
++91 9844615361","947, 16th Main Road, 2nd Stage, BTM, Bangalore",4.1/5,Quick Bites,Yes,No,Bannerghatta Road,775
+667,Tandoor And Spice,"+91 7204051010
++91 8073411669","21, 1st Floor, Next to Oracle, Kalyani Magnum Technum Park, 7th Phase, JP Nagar, Bangalore",4.0/5,Casual Dining,Yes,No,Bannerghatta Road,180
+668,Biriyani Mane,"+91 9731889744
+080 26581948","1345, Southend Main Road, 9th Block JP NAGAR Bangalore, Jayanagar, Bangalore",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,158
+669,Natural Ice Cream,080 42192049,"31, Near Corporation Bank, 60 Feet Road, Panduranga Nagar, Bannerghatta Road, Bangalore",4.3/5,Dessert Parlor,No,No,Bannerghatta Road,423
+670,Calvin's,"080 40928823
++91 8970112299","67, 15th Cross, 3rd Phase, JP Nagar, Bangalore",2.9/5,Dessert Parlor,No,No,Bannerghatta Road,231
+671,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,"080 26724489
++91 7406048982","12,29 Near PES University Back Gate, D'Souza Nagar, Hosakerehalli, 3rd Stage, Banashankari, Bangalore",4.1/5,Cafe,Yes,No,Banashankari,402
+672,Juicy Momos,+91 9538550509,"32, 22nd Cross, 22nd Main, 2nd Stage, Near BDA Complex, Banashankari, Bangalore",3.5/5,Quick Bites,Yes,No,Banashankari,80
+673,Baskin Robbins,"080 40944545
++91 9845200031","17, Opposite to Royal High School, 24th Main, Brigade Millennium Road, JP Nagar, Bangalore",3.9/5,Dessert Parlor,No,No,Bannerghatta Road,86
+674,Berrylicious,+91 8884511222,"1231/35/2, 24th Main, Opposite Brigade Palm Springs, 7th Phase, JP Nagar, Bangalore",3.8/5,Dessert Parlor,Yes,No,Bannerghatta Road,89
+675,Calorie Express,+91 9663868626,"7/43 First floor, 3rd cross, 4th Main, Kaverappa Compound, N S Palaya, 2nd Stage, BTM, Bangalore",3.6/5,Delivery,Yes,No,Bannerghatta Road,192
+676,Kavali,+91 9900998811,"Chennammana Kere, Kathreguppe, Banashankari, Bangalore",4.0/5,Quick Bites,No,No,Banashankari,42
+677,The Chervil,"+91 9742891444
++91 9742890444","11-12/49, First Floor, 14th Main, Puttenahalli Road, Kothnur Main Road, Beside Brigade Millenium, 7th Stage, JP Nagar, Bangalore",4.2/5,Casual Dining,Yes,No,Bannerghatta Road,229
+678,Subway,"080 42136088
+080 26719446","186, 16th Main, 24th Cross, 2nd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,Yes,No,Banashankari,136
+679,Cafe Mist,"+91 9742407147
++91 9538519419","1346, Marenahalli Road, KSRTC Layout, Near Bangalore Central Mall, 2nd Phase, JP Nagar, Bangalore",3.8/5,Cafe,Yes,No,Bannerghatta Road,186
+680,Bathinda Junction,+91 9740701619,"36, 29th Main Road, Mahadeshwara Nagar, Stage 2, BTM, Bangalore",3.9/5,Casual Dining,Yes,No,Bannerghatta Road,362
+681,24th Main,"+91 9900092563
++91 8722148555","Cross Roads Inn, 827, Near RV Dental College Compound, 24th Main, 12th Cross, JP Nagar, Bangalore",4.1/5,Casual Dining,No,Yes,Bannerghatta Road,1234
+682,Shanthi Sagar,+91 8217521220,"77/1, 24th Main, 2nd Phase, JP Nagar, Bangalore",3.6/5,Casual Dining,Yes,No,Basavanagudi,518
+683,Two Friends Cauldron,080 49652809,"39, 15th Cross, Besides HDFC Bank, 4th Phase, JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,Yes,Bannerghatta Road,448
+684,Skytouch Le Cafe,"080 40932483
++91 9740848803","724, 3rd Floor, RBI Layout, Rini Pearl, Opposite E.K. Retail, 7th Phase, JP Nagar, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,127
+685,Desi Vibes,"+91 9897255100
++91 9557333300","B-5, Hermain Complex, 16th Main, 2nd Stage",3.7/5,Casual Dining,Yes,No,Bannerghatta Road,46
+686,The Krishna Grand,"080 26711192
++91 7022268193","1, Monotype, 2nd Stage, Banashankari, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,888
+687,Rithika's Kitchen,"+91 9901468279
++91 8904588050","#8, 1st main, 1st Cross, Opp Jaraganahalli Park, 6th Cross, Second Floor, Second house, Chikkaswamy Layout",3.8/5,Delivery,Yes,No,Bannerghatta Road,106
+688,Behrouz Biryani,"+91 7022260661
++91 7022260662","101, Ground Floor, Manjunatha Complex, 22nd Main Road, 2nd Stage, Banashankari, Bangalore",3.9/5,Delivery,Yes,No,Banashankari,230
+689,RS Shiv Sagar,"080 26604686
+080 26600115","5, Mallariah Complex, Near Corporation Bank, Gandhi Nagar, Basavanagudi, Bangalore",3.7/5,Casual Dining,No,No,Banashankari,217
+690,Baba Ka Dhaba,+91 9986286453,"NS Palya, 4th Phase, Near Shoppers Stop, BTM, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,194
+691,Curry Leaves,"+91 8048666976
++91 8026760130","15, 1st Main, Kariyappa Road, Basavanagudi, Bangalore",4.1/5,Casual Dining,Yes,No,Banashankari,176
+692,The Krishna Grand,"080 26711192
++91 7022268193","1, Monotype, 2nd Stage, Banashankari, Bangalore",3.9/5,Casual Dining,Yes,No,Banashankari,888
+693,Mane Thindi,+91 9964410276,"295/A, 7th Main road, 7th Block, 3rd Stage, Banashankari, Bangalore",3.7/5,Quick Bites,No,No,Banashankari,130
+694,World on a Swirl,+91 9986075232,"Mahadheshwara Swami Nilaya, 1/2, 1st Floor, DLF Circle Main Road, Near Akshaynagar, Yelenahalli, Bannerghatta Road, Bangalore",3.8/5,"Dessert Parlor, Quick Bites",No,No,Bannerghatta Road,46
+695,Zeeshan,080 41616648,"1, Gopal Reddy Layout, 18th Cross, 21st Main, 5th Phase, JP Nagar, Bangalore",3.1/5,Casual Dining,Yes,No,Bannerghatta Road,320
+696,Lassi Corner,"+91 9972348689
++91 7204756477","1304, Kathriguppe Main Road, Ashok Nagar, NR Colony, Basavanagudi, Bangalore",3.7/5,Beverage Shop,Yes,No,Basavanagudi,107
+697,Midnight Mania,+91 9066022868,"43, Arasu Nilaya 1st Floor, Opp To Patel Medical, 7th Main Road, 2nd Stage, BTM, Bangalore",4.1/5,Quick Bites,Yes,No,Bannerghatta Road,601
+698,1947,"080 26791213
++91 9739989446","296, Ram Towers, 100 Feet Ring Road, Banashankari, Bangalore",4.0/5,Casual Dining,No,Yes,Banashankari,808
+699,Chaatimes,+91 8884232233,"39, 3rd Main,4th Cross, Hanumanth Nagar, Near, Basavanagudi, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,133
+700,Domino's Pizza,"080 26788008
+18602100000","10, 1st Floor, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,314
+701,Nandhini Deluxe,"080 26890011
+080 26890033","304, Opposite Apollo Public School, 100 Feet Ring Road, 4th Phase, 7th Block, Banashankari 3rd Stage, Bangalore,",2.6/5,Casual Dining,No,No,Banashankari,283
+702,Paratha Junction,+91 9535673059,"56, 7th Main, Yellappa Layout, 2nd Stage, BTM, Bangalore",2.9/5,Quick Bites,Yes,No,Bannerghatta Road,172
+703,Chow San,"080 65655601
++91 9632247290","1, Opposite British Biological, Arekere, Bannerghatta Road, Bangalore",3.0/5,Casual Dining,Yes,No,Bannerghatta Road,122
+704,Darbar,+91 8861271465,"1, Near BDA Complex, 24th Main, 2nd Stage, Banashankari, Bangalore",3.0/5,Bar,No,No,Banashankari,98
+705,Namana Garden,080 41625637,"910, 5th Cross Road, Vijaya Bank Layout, Bilekahalli,BTM, Bangalore",2.6/5,Quick Bites,No,No,Bannerghatta Road,75
+706,Sri Udupi Food Hub,+91 9916866033,"155, 43rd Cross Road, 8th Block, Jayanagar, Bangalore",4.1/5,Casual Dining,Yes,Yes,Basavanagudi,175
+707,Ambara Gardenia,"+91 8105266066
++91 9611911066","1065/A, 5th Cross, 13th Main, 2nd Floor, Vijaya Bank Layout, Bannerghatta Road, Bangalore",3.8/5,Casual Dining,Yes,Yes,Bannerghatta Road,257
+708,Black Mug Cafe,"+91 9845561119
++91 8095257151","1-2, Near Bhaganagar Bus Stop, Shankarnaga Road, Bhaganagar Layout, Gottigere, Bannerghatta Road, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,171
+709,Sandwich Mama's And Frozen Monster,00 09945784161,"22, Second Main Road, 7th Block, Jayanagar, Bangalore",3.8/5,Quick Bites,Yes,No,Banashankari,53
+710,Stoned Monkey,+91 9972710694,"290, 15th Cross, 5th phase, JP Nagar, Bangalore",3.9/5,Dessert Parlor,Yes,No,Bannerghatta Road,239
+711,New Sagar Fast Food,080 26917517,"12/6, 80 Feet Road, 1st Stage, Srinivasnagar, Bank Colony, 1st Stage, Banashankari, Bangalore",3.6/5,Quick Bites,No,No,Banashankari,71
+712,Rara Avis,080 43334321,"1260 SY 35/4 SJR Tower's, JP Nagar 7th Phase, 24th Main Puttanhalli, JP Nagar, Bangalore",3.9/5,"Takeaway, Delivery",No,No,Bannerghatta Road,61
+713,Mango Tree- The Beer Garden,"+91 9880863789
+080 26851030","99/4, Nataraja Layout, 7th Phase, JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,Yes,Bannerghatta Road,1320
+714,Srinathji's Cafe,"080 26600704
++91 9342593424","112, Bull Temple Road,next to more Basavanagudi, Bangalore",3.8/5,"Casual Dining, Cafe",No,No,Basavanagudi,148
+715,Butterly,+91 7338636363,"7, Doddakammanahalli Main Road, Central Excise Layout, Phase 2, Bannerghatta Road, Bangalore",3.9/5,Cafe,Yes,No,Bannerghatta Road,102
+716,Dal Roti,"080 26493524
++91 9448235118","139, 24th Main, 2nd Cross, 2nd Phase, JP Nagar, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,117
+717,Gufha - The President Hotel,"080 41808777
++91 9900265022","The President Hotel, 79/8, Diagonal Road, 3rd Block, Jayanagar, Bangalore",4.1/5,Casual Dining,Yes,Yes,Banashankari,1875
+718,The Curry Hut Plus,"080 49517195
++91 9632596058","48/4, Opposite Aikya Apartments, Chickakammanahalli, Hulimavu, Bannerghatta Road, Bangalore",3.4/5,Casual Dining,Yes,No,Bannerghatta Road,116
+719,Hunger Bee,"+91 7337613999
++91 7338032999","3rd Floor, 5, 3 Road Cross, DLF Main Road, Bannerghatta Road, Bangalore",3.8/5,Quick Bites,Yes,No,Bannerghatta Road,56
+720,Zhang's - Chinese Restaurant,"080 26595988
+080 26596420","1743, Raghavendra Plaza , 2nd Phase, (Near Diwakars Hospital), JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,No,Bannerghatta Road,586
+721,Checkpost,"00 08043712184
++91 9880439859","47/1, 9th Main,1st Cross, Miniforest, Phase 3, JP Nagar, Bangalore",4.1/5,Casual Dining,Yes,No,Bannerghatta Road,954
+722,Easy Bites,080 43334321,"1260 SY 35/4 SJR Tower's, 24th Main Puttanhalli, 7th Phase, JP Nagar Bangalore",4.1/5,"Takeaway, Delivery",Yes,No,Bannerghatta Road,63
+723,New Royal Treat,"+91 7676992244
++91 8041153336","8/3, Opposite St. Thomas Parish Hall, 4th Cross, Bhavani Layout, Bannerghatta Road, Bangalore",2.8/5,Quick Bites,Yes,No,Bannerghatta Road,102
+724,Bangaliana,080 26488095,"8, First Floor, Arekere Gate, Opposite Rose Garden Apartment, Bannerghatta Road, Bangalore",2.9/5,Quick Bites,Yes,No,Bannerghatta Road,153
+725,South Kitchen,+91 9880980009,"1st Main Road, Near Katte Balaga, NR Colony, Basavanagudi, Bangalore",4.3/5,Quick Bites,Yes,No,Banashankari,275
+726,Brews N Bites,+91 9886791151,"81/3/4, 5th Cross, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",2.7/5,"Quick Bites, Cafe",Yes,No,Bannerghatta Road,48
+727,Purani Dilli By Anand Sweets,080 26488992,"9, Ground Floor, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",4.1/5,Quick Bites,No,No,Bannerghatta Road,315
+728,Flavorsome Bakes,"+91 9739132229
++91 9900766188","Arjun Aura Apartment, Vijaya Bank Layout, Bannerghatta Road, Bangalore",4.0/5,"Takeaway, Delivery",No,No,Bannerghatta Road,93
+729,Faasos,+91 7700020020,"80, BDA Complex, 2nd Stage, Banashankari, Bangalore",4.2/5,Quick Bites,Yes,No,Banashankari,415
+730,The Blue Wagon - Kitchen,"+91 8105485007
++91 8095904280","615/1, Ground Floor, Janardhan Mansion, 10th C Main, 32nd D Cross, 4th Block, Jayanagar, Bangalore",4.6/5,Cafe,Yes,No,Banashankari,228
+731,I Cool,+91 8105392394,"14/1, 23rd Main Road, Nagaraja Garden, JP Nagar, Bangalore",4.0/5,Quick Bites,Yes,No,Bannerghatta Road,76
+732,The Sofraah Kebabs & Kurries - Eden Park Restaurants,"080 42777333
++91 8884416393","Eden Park Restaurants, 722/2, 36th Cross, 10th 'A' Main, Near Telephone Exchange, 4th Block, Jayanagar, Bangalore",3.8/5,Casual Dining,No,Yes,Basavanagudi,176
+733,#refuel,+91 8971227222,"7, Ground Floor, RR Commercial Complex, Akshay Nagar, Bannerghatta Road, Bangalore",3.7/5,Cafe,Yes,No,Bannerghatta Road,37
+734,Catch-up-ino,"+91 9972988038
++91 9900121238","241, 4th Floor, 100 Feet Ring Road, Opposite Kamakya Theatre, Banashankari, Bangalore",3.9/5,Cafe,Yes,No,Banashankari,133
+735,Watson's,"+91 7022078777
++91 7022072777","688, 2nd,Floor, 15th cross, 100ft Ring Road, Above Lathangi Ford Showroom, JP Nagar, Bangalore",4.0/5,"Pub, Bar",Yes,Yes,Bannerghatta Road,1010
+736,Taco Bell,"+91 8448797303
++91 8971535487","Royal Meenakshi Mall, Third Floor, Hulimavu, Bannerghatta Road, Bangalore",3.7/5,Quick Bites,Yes,No,Bannerghatta Road,168
+737,Kailash Parbat,+91 9960069000,"Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",2.7/5,Food Court,No,No,Bannerghatta Road,67
+738,Amande Patisserie,080 26761080,"115, 4th Main, 4th Stage, Thyagarajanagar, Near, Basavanagudi, Bangalore",4.0/5,Bakery,Yes,No,Banashankari,73
+739,Samskruti - Sanman Gardenia,"080 26570711
++91 9663684499","2, Ashoka Pillar Circle, 2nd Block, Jayanagar, Bangalore",4.1/5,Casual Dining,Yes,No,Banashankari,139
+740,Punjabi Times,080 49652597,"15/1, Opposite Shopper's Stop, Bannerghatta Road, Bangalore",4.1/5,Casual Dining,Yes,Yes,Bannerghatta Road,1025
