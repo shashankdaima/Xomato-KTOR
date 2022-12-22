@@ -25,19 +25,22 @@ fun main() {
 val restaurantDao: RestaurantDao
     get() = RestaurantDaoImpl().also {
         runBlocking {
-            if (it.allRestuarants().isEmpty()) {
-                it.addNewRestuarant(
-                    Restaurant(
-                        id = 1,
-                        restaurantName = "Haldiram",
-                        address = "Delhi-6, New Delhi, India",
-                        orderOnline = true,
-                        bookTable = false,
-                        ratingOutOf5 = 4.5f,
-                        contactNumber = "+918888888888"
+            if (it.allRestuarants(1,5).isEmpty()) {
+                for(i in 0..50){
+                    it.addNewRestuarant(
+                        Restaurant(
+                            id = i,
+                            restaurantName = "Haldiram-$i",
+                            address = "ShopNo:$i,Delhi-6, New Delhi, India",
+                            orderOnline = true,
+                            bookTable = false,
+                            ratingOutOf5 = 4.5f,
+                            contactNumber = "+918888888888"
+                        )
                     )
-                )
+                }
             }
+
         }
     }
 

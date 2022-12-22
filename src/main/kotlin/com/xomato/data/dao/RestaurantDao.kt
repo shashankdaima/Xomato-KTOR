@@ -7,7 +7,7 @@ import kotlinx.coroutines.runBlocking
 import org.jetbrains.exposed.sql.*
 
 interface RestaurantDao {
-    suspend fun allRestuarants(): List<Restaurant>
+    suspend fun allRestuarants(page:Int, pageSize:Int): List<Restaurant>
     suspend fun getRestuarant(id: Int): Restaurant?
     suspend fun addNewRestuarant(restaurant: Restaurant): Boolean
     suspend fun editRestuarant(id: Int, restaurant: Restaurant): Boolean
@@ -27,8 +27,8 @@ class RestaurantDaoImpl : RestaurantDao {
         locality = row[Restaurants.locality]
     )
 
-    override suspend fun allRestuarants(): List<Restaurant> = dbQuery {
-        Restaurants.selectAll().map(this::resultRowToRestuarant)
+    override suspend fun allRestuarants(page:Int, pageSize:Int): List<Restaurant> = dbQuery {
+        Restaurants.selectAll().limit(pageSize, offset = ((page - 1)*pageSize).toLong()).map(this::resultRowToRestuarant)
     }
 
     override suspend fun getRestuarant(id: Int): Restaurant? = dbQuery {

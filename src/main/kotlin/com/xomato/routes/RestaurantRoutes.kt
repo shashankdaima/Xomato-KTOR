@@ -1,5 +1,6 @@
 package com.xomato.routes
 
+import com.xomato.data.models.PaginateWrapper
 import com.xomato.restaurantDao
 import com.xomato.data.models.Restaurant
 import io.ktor.http.*
@@ -11,11 +12,13 @@ import io.ktor.server.routing.*
 fun Route.restaurantRouting() {
     route("/restaurants") {
         get {
-            val response = restaurantDao.allRestuarants()
+            val page = call.request.queryParameters["page"]?.toInt() ?: 1
+            val size = call.request.queryParameters["pageSize"]?.toInt() ?: 10
+            val response = restaurantDao.allRestuarants(pageSize = size, page = page)
             if (response.isNotEmpty()) {
-                call.respond(response)
+                call.respond(PaginateWrapper(response, size, page))
             } else {
-                call.respondText("No restaurants found", status = HttpStatusCode.OK)
+                call.respondText("No restaurants found", status = HttpStatusCode.NotFound)
             }
         }
         get("{id?}") {
