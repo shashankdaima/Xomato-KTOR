@@ -16,7 +16,7 @@ fun Route.restaurantRouting() {
             val size = call.request.queryParameters["pageSize"]?.toInt() ?: 10
             val response = restaurantDao.allRestuarants(pageSize = size, page = page)
             if (response.isNotEmpty()) {
-                call.respond(PaginateWrapper(response, size, page))
+                call.respond(PaginateWrapper(response, response.size, page))
             } else {
                 call.respondText("No restaurants found", status = HttpStatusCode.NotFound)
             }

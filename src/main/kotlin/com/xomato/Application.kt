@@ -47,7 +47,7 @@ val restaurantDao: RestaurantDao
 val foodItemDao: FoodItemDao
     get() = FoodItemDaoImpl().also {
         runBlocking {
-            if (it.allFoodItems(1).isEmpty()) {
+            if (it.allFoodItems(1,1,5).isEmpty()) {
                 it.addNewFoodItem(
                     FoodItem(
                         id = 1,

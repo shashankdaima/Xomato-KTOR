@@ -9,7 +9,7 @@ import org.jetbrains.exposed.sql.*
 import org.jetbrains.exposed.sql.SqlExpressionBuilder.eq
 
 interface FoodItemDao {
-    suspend fun allFoodItems(restaurantId: Int): List<FoodItem>
+    suspend fun allFoodItems(restaurantId: Int, page: Int, pageSize: Int): List<FoodItem>
     suspend fun getFoodItemById(id: Int): FoodItem?
     suspend fun addNewFoodItem(foodItem: FoodItem): Boolean
     suspend fun updateFoodItem(id: Int, foodItem: FoodItem): Boolean
@@ -26,8 +26,9 @@ class FoodItemDaoImpl : FoodItemDao {
         price = row[FoodItems.price]
     )
 
-    override suspend fun allFoodItems(restaurantId: Int): List<FoodItem> = dbQuery {
-        FoodItems.select { FoodItems.restaurantId eq restaurantId }.map(this::resultRowToFoodItem)
+    override suspend fun allFoodItems(restaurantId: Int, page: Int, pageSize: Int): List<FoodItem> = dbQuery {
+        FoodItems.select { FoodItems.restaurantId eq restaurantId }
+            .limit(pageSize, offset = ((page - 1) * pageSize).toLong()).map(this::resultRowToFoodItem)
     }
 
     override suspend fun getFoodItemById(id: Int): FoodItem? = dbQuery {
