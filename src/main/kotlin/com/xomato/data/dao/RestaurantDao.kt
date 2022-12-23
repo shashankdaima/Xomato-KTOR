@@ -29,7 +29,7 @@ class RestaurantDaoImpl : RestaurantDao {
 
     override suspend fun allRestuarants(page:Int, pageSize:Int): List<Restaurant> = dbQuery {
 
-        Restaurants.selectAll().limit(pageSize, offset = ((page - 1)*pageSize).toLong()).map(this::resultRowToRestuarant)
+        Restaurants.selectAll().limit(pageSize, offset = ((page - 1)*pageSize).toLong()).orderBy(Restaurants.restaurantName to SortOrder.ASC).map(this::resultRowToRestuarant)
     }
 
     override suspend fun getRestuarant(id: Int): Restaurant? = dbQuery {
