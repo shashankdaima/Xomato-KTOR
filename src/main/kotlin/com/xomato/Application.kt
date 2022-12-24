@@ -27,11 +27,6 @@ fun main() {
     ).start(wait = true)
 }
 
-//src/main/kotlin/com/xomato/Restaurantdatashashank.csv
-//id,restaurantName,contactNumber,address,ratingOutOf5,restType,orderOnline,bookTable,locality,votes
-fun readLocalCSV() {
-
-}
 
 val restaurantDao: RestaurantDao
     get() = RestaurantDaoImpl().also { dao ->

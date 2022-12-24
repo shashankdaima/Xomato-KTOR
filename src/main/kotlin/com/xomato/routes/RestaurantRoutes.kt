@@ -14,7 +14,12 @@ fun Route.restaurantRouting() {
         get {
             val page = call.request.queryParameters["page"]?.toInt() ?: 1
             val size = call.request.queryParameters["pageSize"]?.toInt() ?: 10
-            val response = restaurantDao.allRestuarants(pageSize = size, page = page)
+            val searchQuery = call.request.queryParameters["q"] ?: ""
+            val response = if (searchQuery.isEmpty()) {
+                restaurantDao.allRestuarants(pageSize = size, page = page)
+            } else {
+                restaurantDao.allRestuarants(pageSize = size, page = page, search=searchQuery)
+            }
             if (response.isNotEmpty()) {
                 call.respond(PaginateWrapper(response, response.size, page))
             } else {
