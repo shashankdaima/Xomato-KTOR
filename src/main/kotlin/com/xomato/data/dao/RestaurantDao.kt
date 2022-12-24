@@ -32,7 +32,7 @@ class RestaurantDaoImpl : RestaurantDao {
 
     override suspend fun allRestuarants(page: Int, pageSize: Int, search: String): List<Restaurant> = dbQuery {
         Restaurants.select {
-            Restaurants.restaurantName like "%$search%" or(Restaurants.address like "%$search%")
+            LowerCase(Restaurants.restaurantName) like "%${search.toLowerCase()}%" or(LowerCase(Restaurants.address) like "%${search.toLowerCase()}%")
         }.limit(pageSize, offset = ((page - 1) * pageSize).toLong())
             .orderBy(Restaurants.restaurantName to SortOrder.ASC).map(this::resultRowToRestuarant)
 
