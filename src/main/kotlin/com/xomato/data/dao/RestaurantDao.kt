@@ -5,6 +5,7 @@ import com.xomato.data.models.Restaurant
 import com.xomato.data.models.Restaurants
 import kotlinx.coroutines.runBlocking
 import org.jetbrains.exposed.sql.*
+import org.jetbrains.exposed.sql.SqlExpressionBuilder.like
 
 interface RestaurantDao {
     suspend fun allRestuarants(page: Int, pageSize: Int, search: String): List<Restaurant>
@@ -31,7 +32,7 @@ class RestaurantDaoImpl : RestaurantDao {
 
     override suspend fun allRestuarants(page: Int, pageSize: Int, search: String): List<Restaurant> = dbQuery {
         Restaurants.select {
-            Restaurants.restaurantName like "%$search%"
+            Restaurants.restaurantName like "%$search%" or(Restaurants.address like "%$search%")
         }.limit(pageSize, offset = ((page - 1) * pageSize).toLong())
             .orderBy(Restaurants.restaurantName to SortOrder.ASC).map(this::resultRowToRestuarant)
 
