@@ -16,6 +16,18 @@ data class Restaurant(
     val locality: String? = null
 )
 
+@Serializable
+data class RestaurantString(
+    val id: String,
+    val restaurantName: String,
+    val address: String,
+    val orderOnline: String,
+    val bookTable: String,
+    val ratingOutOf5: String ,
+    val votes: String,
+    val contactNumber: String?,
+    val locality: String? = null
+)
 object Restaurants : Table() {
     val id = integer("id").autoIncrement()
     val restaurantName = varchar("restaurantName", 128)

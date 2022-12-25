@@ -2,7 +2,7 @@ package com.xomato.data
 
 import com.xomato.data.dao.RestaurantDao
 import com.xomato.data.dao.RestaurantDaoImpl
-import com.xomato.data.models.FoodItems
+//import com.xomato.data.models.FoodItems
 import com.xomato.data.models.Restaurants
 import kotlinx.coroutines.*
 import org.jetbrains.exposed.sql.*
@@ -17,7 +17,7 @@ object DatabaseFactory {
         val database = Database.connect(jdbcURL, driverClassName)
         transaction(database) {
             SchemaUtils.create(Restaurants)
-            SchemaUtils.create(FoodItems)
+//            SchemaUtils.create(FoodItems)
         }
     }
 

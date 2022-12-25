@@ -6,5 +6,7 @@ import kotlinx.serialization.Serializable
 data class PaginateWrapper<T>(
     val results: T,
     val pageSize: Int,
-    val pageNo: Int,
+    val page: Int,
 )
+
+
