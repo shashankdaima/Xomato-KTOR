@@ -23,7 +23,7 @@ fun Route.restaurantRouting() {
             if (response.isNotEmpty()) {
                 call.respond(PaginateWrapper(response, response.size, page))
             } else {
-                call.respondText("No restaurants.json found", status = HttpStatusCode.NotFound)
+                call.respondText("No restaurants found", status = HttpStatusCode.NotFound)
             }
         }
         get("{id?}") {
